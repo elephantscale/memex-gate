@@ -171,4 +171,4 @@ timex_pre.lst:
 title_lower.lst:
 title_lowercase.lst:
 us_counties.lst:us_county
-us_states.lst:us_state
+us_states.lst:us_state:::US_State
