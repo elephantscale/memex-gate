@@ -1,0 +1,9 @@
+Phase: Person_Name_Recognition
+Input: Lookup Token Space_Token
+
+Rule: Person_Name_Recognition
+(
+  {Lookup}
+):match
+-->
+:match.Person_Name = {rule = "Person_Name_Recognition"}

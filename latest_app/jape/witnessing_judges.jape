@@ -1,0 +1,25 @@
+Phase: Witnessing_Judge
+Input: Lookup US_Federal_Judge Token SpaceToken
+
+Rule: Witnessing_Judge
+(
+  ({US_Federal_Judge}):judge
+  (
+    {Token.string == ","}
+    ({SpaceToken})+
+    ({US_Federal_Judge}):inner_judge
+  )*
+  (
+    {Token.string == ","}
+    ({SpaceToken})+
+    ({Token}):undefined_judge
+  )*
+  ({Token.string == ","})?
+  ({SpaceToken})+
+  {Token.string == "concur"}
+):match
+-->
+:judge.Witnessing_Judge =
+ {rule = "Witnessing_Judge"},
+:inner_judge.Witnessing_Judge =
+ {rule = "Witnessing_Judge"}

@@ -6,11 +6,11 @@ districts.lst:district:electronic::ElectronicsKeywords
 manufacturer_names.lst:manufacturer:electronic::ElectronicsKeywords
 part_descriptions.lst:partDescription:electronic::ElectronicsKeywords
 part_names.lst:partName:electronic::ElectronicsKeywords
-us_district_and_territorial_courts.lst:court:district_territorial_court
-us_district_attorneys.lst:person_full:district_attorney
-us_federal_district_attorneys.lst:person_full:federal_attorney
-us_federal_judges.lst:person_full:federal_judge
-us_legal_lexicon.lst:term:legal_terminology
+us_district_and_territorial_courts.lst:court:district_territorial_court::US_Court
+us_district_attorneys.lst:person_full:district_attorney::US_District_Attorney
+us_federal_district_attorneys.lst:person_full:federal_attorney::US_District_Attorney
+us_federal_judges.lst:person_full:federal_judge::US_Federal_Judge
+us_legal_lexicon.lst:term:legal_terminology::US_Legal_Keyword
 adbc.lst:adbc
 agency.lst:organization:government
 airports.lst:location:airport
@@ -170,5 +170,5 @@ timespan.lst:
 timex_pre.lst:
 title_lower.lst:
 title_lowercase.lst:
-us_counties.lst:us_county
+us_counties.lst:us_county:::US_County
 us_states.lst:us_state:::US_State
