@@ -22,6 +22,7 @@ Rule: Assisant_District_Attorney_Recognition
    )?
    {Token.string == "("}
    ({PersonName}):match
+   {SpaceToken}
    {Token.string == "of"}
    {SpaceToken}
    {Token.string == "counsel"}
