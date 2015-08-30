@@ -1,9 +1,64 @@
 Phase: Person_Name_Recognition
-Input: Lookup Token Space_Token
+Input: Lookup Token SpaceToken
+Options: control = appelt
 
-Rule: Person_Name_Recognition
+Macro: PERSON_NAME_PART
 (
-  {Lookup}
-):match
+  {Token.string ==~ "[A-Z][A-Za-z]+"}
+)
+
+Macro: INITIALS_PATTERN_1
+(
+  {Token.string ==~ "[A-Z]"}
+  {Token.string == "."}
+)
+
+Macro: INITIALS_PATTERN_2
+(
+  {Token.string ==~ "[A-Z]"}
+  ({Token.string == "."})
+  {Token.string ==~ "[A-Z]"}
+  ({Token.string == "."})
+)
+
+Macro: INITIALS_PATTERN_3
+(
+  {Token.string ==~ "[A-Z]"}
+  ({Token.string == "."})
+  {Token.string ==~ "[A-Z]"}
+  ({Token.string == "."})
+  {Token.string ==~ "[A-Z]?"}
+  {Token.string == "."}
+)
+
+Macro: INITIALS_PATTERN_4
+(
+  {Token.string ==~ "[A-Z]{2,2}"}
+  ({Token.string == "."})?
+)
+
+Macro: PERSON_INITIALS
+(
+  (INITIALS_PATTERN_1 | INITIALS_PATTERN_2 | INITIALS_PATTERN_3 | INITIALS_PATTERN_4)
+)
+
+Macro: INITIALS_TOKEN
+(
+  ({Token.string == ","})
+  ({SpaceToken})+
+  (PERSON_INITIALS)
+)
+
+// Cardona, P.J., Crew III, Peters and Carpinello, JJ., concur
+
+Rule: PersonName
+(
+  (PERSON_NAME_PART)
+  (INITIALS_TOKEN)?
+  (
+    ({SpaceToken})+
+    ({Lookup.majorType == "person_ending"})
+  )?
+):person_name_match
 -->
-:match.Person_Name = {rule = "Person_Name_Recognition"}
+:person_name_match.PersonName = {rule = "PersonName"}

@@ -1,25 +1,70 @@
-Phase: Witnessing_Judge
-Input: Lookup US_Federal_Judge Token SpaceToken
+Phase: Mark_Separators
+Input: SpaceToken Token
 
-Rule: Witnessing_Judge
+
+Rule: Witnessing_Judge_Separator
 (
-  ({US_Federal_Judge}):judge
   (
     {Token.string == ","}
-    ({SpaceToken})+
-    ({US_Federal_Judge}):inner_judge
-  )*
+    {SpaceToken}
+  )
+  |
   (
-    {Token.string == ","}
-    ({SpaceToken})+
-    ({Token}):undefined_judge
-  )*
-  ({Token.string == ","})?
-  ({SpaceToken})+
-  {Token.string == "concur"}
-):match
+    ({Token.string == ","})?
+    {SpaceToken}
+    {Token.string == "and"}
+    {SpaceToken}
+  )
+):separator
 -->
-:judge.Witnessing_Judge =
- {rule = "Witnessing_Judge"},
-:inner_judge.Witnessing_Judge =
- {rule = "Witnessing_Judge"}
+  :separator.Witnessing_Judge_Separator = {}
+
+
+Phase: Witnessing_Judges_Markup
+Options: control = all
+Input: Lookup US_Federal_Judge Token SpaceToken PersonName Witnessing_Judge_Separator Split
+
+//Cardona, P.J., Crew III, Carpinello, JJ., Carpinello, JJ., concur.
+
+// {name}, {name}, {name} concur.
+Rule: Witnessing_Judge_Left
+(
+    (
+      ({PersonName}):judge
+    )
+    (
+      {Witnessing_Judge_Separator}
+      {PersonName}
+    )*
+    {Witnessing_Judge_Separator}
+    {Token.string == "concur"}
+)
+-->
+    :judge.Witnessing_Judge = {rule = "Witnessing_Judge_Left"}
+
+
+// {name}, {name} concur with {name}.
+Rule: Witnessing_Judge_Right
+(
+    {Token.string == "concur"}
+    {SpaceToken}
+    {Token.string == "with"}
+    {SpaceToken}
+    ({PersonName}):judge
+)
+-->
+  :judge.Witnessing_Judge = {rule = "Witnessing_Judge_Right"}
+
+// Concur -- {name}, {name} ..
+Rule: Witnessing_Judge_Right_2
+(
+    ({Token.string == "Concur—"})
+    ({SpaceToken})?
+    (
+      {PersonName}
+      {Witnessing_Judge_Separator}
+    )*
+    ({PersonName}):judge
+)
+-->
+  :judge.Witnessing_Judge = {rule = "Witnessing_Judge_Right_2"}
