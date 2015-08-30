@@ -1,0 +1,31 @@
+Phase: Defendant_Appelant_Respondent_Recognition
+Input: Lookup Token SpaceToken US_District_Attorney PersonName
+Options: control = appelt
+
+
+
+Rule: Assisant_District_Attorney_Recognition
+(
+   ({US_District_Attorney})
+   {Token.string == ","}
+   (
+     {SpaceToken}
+     {Token.string == "District"}
+     {SpaceToken}
+     {Token.string == "Attorney"}
+     ({Token.string == ","})?
+   )?
+   {SpaceToken}
+   ( // possibly city
+    {Token}
+    {SpaceToken}
+   )?
+   {Token.string == "("}
+   ({PersonName}):match
+   {Token.string == "of"}
+   {SpaceToken}
+   {Token.string == "counsel"}
+   {Token.string == ")"}
+)
+-->
+  :match.Assisant_District_Attorney = { rule = "Assistant_District_Attorney_Recognition" }

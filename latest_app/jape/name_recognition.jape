@@ -44,14 +44,14 @@ Macro: PERSON_INITIALS
 
 Macro: INITIALS_TOKEN
 (
-  ({Token.string == ","})
+  ({Token.string == ","})?
   ({SpaceToken})+
   (PERSON_INITIALS)
 )
 
 // Cardona, P.J., Crew III, Peters and Carpinello, JJ., concur
 
-Rule: PersonName
+Rule: PersonName_Initials_Ending
 (
   (PERSON_NAME_PART)
   (INITIALS_TOKEN)?
@@ -61,4 +61,15 @@ Rule: PersonName
   )?
 ):person_name_match
 -->
-:person_name_match.PersonName = {rule = "PersonName"}
+:person_name_match.PersonName = {rule = "PersonName_Initials_Ending"}
+
+
+Rule: PersonName_Initials_Middle
+(
+  (PERSON_NAME_PART)
+  (INITIALS_TOKEN)?
+  {SpaceToken}
+  (PERSON_NAME_PART)
+):person_name_match
+-->
+  :person_name_match.PersonName = {rule = "PersonName_Initials_Middle"}
