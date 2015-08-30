@@ -15,18 +15,23 @@ Rule: Assisant_District_Attorney_Recognition
      {Token.string == "Attorney"}
      ({Token.string == ","})?
    )
-   {SpaceToken}
    ( // possibly city
-    {Token}
-    {SpaceToken}
-   )[0,5]
+      {SpaceToken}
+      {Token}
+   )[0,3]
+   (
+     // possibly state
+     {Token.string == ","}
+     {SpaceToken}
+     ({Token})[0,10]
+   )?
+   ({SpaceToken})?
    {Token.string == "("}
    ({PersonName}):match
    {SpaceToken}
    {Token.string == "of"}
    {SpaceToken}
    {Token.string == "counsel"}
-   {Token.string == ")"}
 )
 -->
   :match.Assisant_District_Attorney = { rule = "Assistant_District_Attorney_Recognition" }
