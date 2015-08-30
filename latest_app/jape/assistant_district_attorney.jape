@@ -25,12 +25,12 @@ Rule: Assisant_District_Attorney_Recognition
      {SpaceToken}
      ({Token})[0,10]
    )?
-   ({SpaceToken})?
+   ({SpaceToken})*
    {Token.string == "("}
    ({PersonName}):match
-   {SpaceToken}
+   ({SpaceToken})+
    {Token.string == "of"}
-   {SpaceToken}
+   ({SpaceToken})+
    {Token.string == "counsel"}
 )
 -->

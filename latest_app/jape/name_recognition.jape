@@ -73,3 +73,15 @@ Rule: PersonName_Initials_Middle
 ):person_name_match
 -->
   :person_name_match.PersonName = {rule = "PersonName_Initials_Middle"}
+
+
+Rule: PersonName_Triple
+(
+  (PERSON_NAME_PART)
+  ({SpaceToken})+
+  (PERSON_NAME_PART)
+  ({SpaceToken})+
+  (PERSON_NAME_PART)
+):person_name_match
+-->
+  :person_name_match.PersonName = {rule = "PersonName_Triple"}
