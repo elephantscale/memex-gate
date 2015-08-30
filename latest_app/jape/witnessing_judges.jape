@@ -1,8 +1,8 @@
-Phase: Mark_Separators
-Input: SpaceToken Token
+Phase: Witnessing_Judges_Markup
+Options: control = all
+Input: Lookup US_Federal_Judge Token SpaceToken PersonName Split
 
-
-Rule: Witnessing_Judge_Separator
+Macro: SEPARATOR
 (
   (
     {Token.string == ","}
@@ -15,14 +15,7 @@ Rule: Witnessing_Judge_Separator
     {Token.string == "and"}
     {SpaceToken}
   )
-):separator
--->
-  :separator.Witnessing_Judge_Separator = {}
-
-
-Phase: Witnessing_Judges_Markup
-Options: control = all
-Input: Lookup US_Federal_Judge Token SpaceToken PersonName Witnessing_Judge_Separator Split
+)
 
 //Cardona, P.J., Crew III, Carpinello, JJ., Carpinello, JJ., concur.
 
@@ -33,10 +26,10 @@ Rule: Witnessing_Judge_Left
       ({PersonName}):judge
     )
     (
-      {Witnessing_Judge_Separator}
+      (SEPARATOR)
       {PersonName}
     )*
-    {Witnessing_Judge_Separator}
+    (SEPARATOR)
     {Token.string == "concur"}
 )
 -->
@@ -62,7 +55,7 @@ Rule: Witnessing_Judge_Right_2
     ({SpaceToken})?
     (
       {PersonName}
-      {Witnessing_Judge_Separator}
+      (SEPARATOR)
     )*
     ({PersonName}):judge
 )

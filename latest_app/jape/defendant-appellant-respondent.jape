@@ -1,0 +1,11 @@
+Phase: Defendant_Appelant_Respondent_Recognition
+Input: Lookup Token SpaceToken
+Options: control = appelt
+
+
+Rule: Defendant_Respondent_Recognition
+(
+
+)
+-->
+  :defendant.Defendant_Respondent = {rule: "Defendant_Respondent_Recognition"}
