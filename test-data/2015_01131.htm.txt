@@ -1,0 +1,100 @@
+
+	Floyd v New York State Thruway Auth.
+	2015 NY Slip Op 01131 [125 AD3d 1456]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 R.L. Floyd, Claimant-Respondent,
+v
+New York
+State Thruway Authority, Appellant. (Claim No. 105256.)
+
+
+
+
+
+Roach, Brown, McCarthy & Gruber, P.C., Buffalo (J. Mark Gruber of counsel),
+for defendant-appellant.
+
+Dolce Panepinto, P.C., Buffalo (Jonathan M. Gorski of counsel), for
+claimant-respondent.
+
+
+
+
+
+Appeal from a judgment of the Court of Claims (Jeremiah J. Moriarty, III, J.),
+entered August 27, 2013. The interlocutory judgment determined that defendant is 100%
+liable for claimant's injuries.
+
+It is hereby ordered that the judgment so appealed from is unanimously affirmed
+without costs.
+
+Memorandum: Defendant appeals from an interlocutory judgment entered in favor of
+claimant after a trial on the issue of liability. Claimant, a painter working on a large-scale
+bridge painting project on the north Grand Island Bridge, was struck and injured by a
+falling rigging cable while preparing to return to his work area. Claimant subsequently
+commenced this action seeking damages for the violation of Labor Law
+§ 240 (1) as well as common-law negligence, but the latter claim was
+previously dismissed and is not at issue herein.
+
+Contrary to defendant's contention, the Court of Claims properly denied its motion
+seeking summary judgment dismissing the Labor Law § 240 (1) claim.
+Initially, we note that defendant may challenge the propriety of the order denying its
+motion for summary judgment on this appeal from the interlocutory judgment (see e.g. Fusco v Hobbes, 16
+AD3d 1031, 1032 [2005]; see generally Burke v Crosson, 85 NY2d 10,
+15-16 [1995]). Likewise, although defendant previously had cross-moved for summary
+judgment and "successive summary judgment motions generally are disfavored" (Giardina v Lippes, 77 AD3d
+1290, 1291 [2010], lv denied 16 NY3d 702 [2011]), we are not precluded
+from addressing defendant's present motion, particularly in view of the fact that it was
+made after further discovery (see id.).
+
+We note with respect to the merits of defendant's motion that it is axiomatic that
+Labor Law § 240 (1) "applies to both 'falling worker' and 'falling object'
+cases" (Narducci v Manhasset Bay Assoc., 96 NY2d 259, 267 [2001]), and that
+section 240 (1) guards "workers against the 'special hazards' that arise when the work site
+either is itself elevated or is positioned below the level where 'materials or load [are]
+hoisted or secured' " (Ross v Curtis-Palmer Hydro-Elec. Co., 81 NY2d
+494, 501 [1993], quoting Rocovich v Consolidated Edison Co., 78 NY2d 509,
+514 [1991]; see Micoli v City of Lockport, 281 AD2d 881, 882 [2001]). To
+recover under section 240 (1), a worker injured by a falling object must thus establish
+both (1) that the object was being hoisted or secured, or that it " 'required
+securing for the purposes of the undertaking,' " and (2) that the object fell
+because of the absence or inadequacy of a safety device to guard against a risk involving
+the application of the force of gravity over a physically significant elevation differential
+(Fabrizi v 1095 Ave. of the
+Ams., L.L.C., 22 NY3d 658, 663 [2014], quoting Outar v City of New York, 5
+NY3d 731, 732 [2005]; see
+Runner v New York Stock Exch., Inc., 13 NY3d 599, 603-605 [2009]). Here,
+we conclude that defendant failed to meet its initial burden on the motion because the
+evidence it submitted in support [*2]thereof "failed to
+eliminate all triable issues of fact as to whether the object that struck [claimant] was an
+object that was 'being hoisted or secured' . . . , or required securing for the
+purposes of the undertaking pursuant to Labor Law § 240 (1)" (Ginter v Flushing Terrace,
+LLC, 121 AD3d 840, 843 [2014]; see Gonzalez v TJM Constr. Corp., 87 AD3d 610, 611
+[2011]).
+
+We further conclude that the court properly granted claimant judgment on liability
+after conducting a trial. Viewing the evidence in the light most favorable to sustain the
+judgment following this nonjury trial (see Matter of City of Syracuse Indus. Dev. Agency [Alterm,
+Inc.], 20 AD3d 168, 170 [2005]), we conclude that there is a fair interpretation
+of the evidence supporting the court's determination that defendant violated Labor Law
+§ 240 (1) (see
+Sung Kyu-To v Triangle Equities, LLC, 84 AD3d 1058, 1060 [2011]; Costa v Piermont Plaza Realty,
+Inc., 10 AD3d 442, 444 [2004]; Bornschein v Shuman, 7 AD3d 476, 478 [2004]). We have
+reviewed defendant's remaining contentions and conclude that they are without merit.
+Present—Centra, J.P., Fahey, Lindley, Sconiers and Whalen, JJ.
+
+
+

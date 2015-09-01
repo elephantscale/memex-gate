@@ -1,0 +1,171 @@
+
+	C. Mahendra (NY), LLC v National Gold & Diamond Ctr.,
+Inc.
+	2015 NY Slip Op 01157 [125 AD3d 454]
+	February 10, 2015
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 C. Mahendra (NY), LLC, Appellant,
+v
+National
+Gold & Diamond Center, Inc., Respondent.
+
+
+
+
+
+Sadis & Goldberg, LLC, New York (Paulina Stamatelos of counsel), for
+appellant.
+
+Louis Fogel & Associates, New York (Louis Fogel of counsel), for
+respondent.
+
+
+
+
+
+Order, Supreme Court, New York County (Ellen M. Coin, J.), entered May 29, 2013,
+which granted defendant's motion to dismiss the complaint for lack of personal
+jurisdiction, unanimously reversed, on the law, without costs, and the motion
+denied.
+
+Plaintiff is a New York wholesale supplier of loose diamonds on consignment to
+vendors; defendant is a California seller of jewelry, including goods that it accepted on
+consignment. The parties began doing business with each other in 2002; defendant
+placed numerous orders, totaling millions of dollars, by telephoning plaintiff in New
+York and negotiating terms of size, price range, and description of the diamonds. In the
+course of their dealings, plaintiff shipped diamonds to defendant "on memorandum" so
+that defendant could examine the diamonds and decide whether to keep them. Plaintiff
+then sent defendant invoices for the diamonds it purchased. Both the memoranda and
+invoices contained conditions regarding jurisdiction, each stating: "[Y]ou consent to the
+exclusive jurisdiction of the State and Federal courts situate[d] in New York County.
+This contract shall be construed and governed in accordance with the laws of New York,
+without giving effect to its choice of law principles."
+
+Several years into the parties' business arrangement, defendant allegedly failed to pay
+a balance of around $14,000 for a June 2009 consignment. Similarly, defendant allegedly
+failed to pay more than $50,000 for a March 2011 consignment. Plaintiff commenced
+this action, seeking to recover more than $64,000. In its complaint, plaintiff interposed
+causes of action for, among other things, account stated, goods sold and delivered, and
+breach of contract.
+
+Defendant moved to dismiss the complaint on several grounds, including lack of
+personal jurisdiction. On the motion, defendant argued that its telephone calls, letters,
+and faxes to plaintiff—defendant's only connection to New York—did not
+constitute sufficient "purposeful activity" or sufficient contacts to subject it to personal
+jurisdiction in this state.
+
+Further, defendant argued, the forum selection clause in the consignment
+memorandums was not binding because its president never signed the memorandums'
+terms and conditions. Defendant thus maintained that it had not signed or agreed to the
+forum selection clause, nor had it otherwise consented to being sued in New York.
+Likewise, defendant asserted that because it had negotiated for and ordered the diamonds
+from California and did not sign or agree to the forum selection clause, the consent to
+jurisdiction contained in the memorandums would [*2]materially alter the parties' agreements in contravention of
+UCC 2-207 (2) (b). Thus, defendant concluded, it was not bound by the unsigned
+provision on the back of the consignment memorandums.
+
+In opposition, plaintiff argued that the forum selection clause was, in fact, binding on
+defendant. Indeed, plaintiff asserted, UCC 2-207 applies only in instances where
+additional terms are added to an expression of acceptance or written confirmation of an
+offer. In this case, plaintiff argued, the forum selection clause appeared on all invoices
+and memorandums submitted to defendant, including the March 2011 invoice and
+memorandum, and there was no contract between the parties until defendant accepted the
+goods. Therefore, plaintiff maintained, defendant's retention of the goods shipped created
+a cognizable contract, in accordance with the terms and conditions on the invoices and
+memorandums, including the forum selection clause. Accordingly, plaintiff concluded
+that the forum selection clause was actually contained in the original documentation that
+formed the contracts.
+
+The motion court granted the motion to dismiss. In so doing, it found the forum
+selection clause invalid, noting that defendant did not sign the invoices. The court further
+found that under UCC 2-207 (2), forum selection clauses are additional terms that
+materially alter a contract, and must be construed as mere proposals for additions to the
+contract. Thus, the court concluded, the forum selection clause was non-binding absent
+an express agreement. Indeed, the court noted, the complaint did not allege that
+defendant affirmatively expressed consent, either orally or in writing, to the forum
+selection clause when it retained the invoices.
+
+Further, the court found, personal jurisdiction was lacking on a "transaction of
+business" theory because defendant's telephone orders from California to New York were
+not sufficiently purposeful activity to confer jurisdiction. Indeed, the court noted,
+defendant's employees did not travel to New York on business, but rather, plaintiff's
+employees traveled to California to establish business relations and display merchandise.
+The court distinguished Deutsche Bank Sec., Inc. v Montana Bd. of Invs. (7 NY3d
+65 [2006], cert denied 549 US 1095 [2006]), upon which plaintiff had relied
+for its argument that telephone calls provide a sufficient basis for jurisdiction, finding
+that in Deutsche Bank, the defendant was a "sophisticated institutional trader"
+negotiating and concluding a substantial transaction.
+
+The motion court correctly found that defendant is not bound by the forum selection
+clause on plaintiff's invoices. UCC 2-207 contemplates situations like the one here,
+where parties do business through an exchange of forms such as purchase orders and
+invoices. As the parties did here, merchants frequently include terms in their forms that
+were not discussed with the other side. UCC 2-207 (2) addresses that scenario,
+providing, "[t]he additional terms are to be construed as proposals for addition to the
+contract. Between merchants such terms become part of the contract unless:
+. . . (b) they materially alter it."
+
+Here, during telephone discussions, the parties negotiated the essential terms
+required for contract formation, and the invoices were merely confirmatory (see Hugo
+Boss Fashions v Sam's Eur. Tailoring, 293 AD2d 296, 297 [1st Dept 2002]). Thus,
+the forum selection clause is an additional term that materially altered the parties' oral
+contracts, and defendant did not give its consent to that additional term (id.; see also Orkal Indus., LLC v Array
+Connector Corp., 97 AD3d 555, 556-557 [2d Dept 2012]).
+
+However, the motion court erred in finding that the parties' telephone dealings over
+several years and in the two transactions at issue were insufficient as a matter of law to
+confer personal jurisdiction over defendant pursuant to CPLR 302 (a) (1). CPLR 302 (a)
+(1) authorizes the [*3]assertion of long-arm jurisdiction
+over a non-domiciliary who "transacts any business within the state or contracts
+anywhere to supply goods or services in the state." CPLR 302 (a) (1) is a "single act
+statute"; accordingly, physical presence is not required and one New York transaction is
+sufficient for personal jurisdiction. The statute applies where the defendant's New York
+activities were purposeful and substantially related to the claim (see D&R Global Selections,
+S.L. v Bodega Olegario Falcón Piñeiro, 90 AD3d 403, 404 [1st
+Dept 2011]). " 'Purposeful' " activities are defined as " 'those
+with which a defendant, through volitional acts, avails itself of the privilege of
+conducting activities within the forum State, thus invoking the benefits and protections
+of its laws' " (id., quoting Fischbarg v Doucet, 9 NY3d 375, 380 [2007]).
+
+We recognize that courts of this state have generally held telephone communications
+to be insufficient for finding purposeful activity conferring personal jurisdiction (see Arouh v Budget Leasing,
+Inc., 63 AD3d 506 [1st Dept 2009]; Liberatore v Calvino, 293 AD2d
+217, 220 [1st Dept 2002]). However, there are exceptions to this general rule, and in
+some cases, telephone communications will, in fact, be sufficient to confer jurisdiction
+(see e.g. Deutsche Bank, 7 NY3d at 71 [CPLR 302 (a) (1) conferred long-arm
+jurisdiction over out-of-state institutional investor who called plaintiff, a New York
+securities firm, to make a trade, and the suit arose from that transaction];
+Fischbarg, 9 NY3d at 380 [California defendants "transacted business" where
+they formed an attorney-client relationship with plaintiff attorney in New York through
+numerous telephone calls, faxes, mail contacts, and emails]).
+
+Here, the court did not assess defendant's conduct or defendant's purposeful
+availment of the privilege of doing business in this forum (see Fischbarg, 9 NY3d
+at 380-381). Although the motion court distinguished Deutsche Bank by pointing
+to the sophistication of the parties and the magnitude of the transactions in that case,
+those two factors do not determine the question of personal jurisdiction. On the contrary,
+as the Court of Appeals found in Fischbarg, the "quality of defendants' contacts"
+is the primary consideration in deciding the question of long-arm jurisdiction (id.
+at 380). That the circumstances of the defendant's telephone calls in this case were
+different from those in Deutsche Bank does not make defendant's calls any less
+"purposeful." While the business dealings in this case were not especially complex, they
+also did not fall on the opposite end of the spectrum—that is, a single consumer
+transaction (see Parke-Bernet Galleries v Franklyn, 26 NY2d 13, 17 [1970]). The
+quality of the defendant's conduct was sufficient to subject defendant to long-arm
+jurisdiction. Concur—Sweeny, J.P., Moskowitz, DeGrasse, Manzanet-Daniels and
+Clark, JJ.
+
+
+

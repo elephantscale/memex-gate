@@ -1,0 +1,92 @@
+
+	Arnon Ltd (IOM) v Beierwaltes
+	2015 NY Slip Op 01156 [125 AD3d 453]
+	February 10, 2015
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+(February 10, 2015)
+
+	 Arnon Ltd (IOM), Respondent,
+v
+William
+Beierwaltes et al., Appellants.
+
+
+
+
+
+Moses & Singer, LLP, New York (Henry J. Bergman of counsel), for
+appellants.
+
+Skadden, Arps, Slate, Meagher & Flom, LLP, New York (Christopher R. Gette
+of counsel), for respondent.
+
+
+
+
+
+Order, Supreme Court, New York County (Marcy S. Friedman, J.), entered October
+29, 2013, which, insofar as appealed from as limited by the briefs, granted plaintiff's
+CPLR 3211 (a) (7) motion to dismiss defendants' counterclaims for fraudulent
+inducement and tortious interference with prospective economic relations, unanimously
+affirmed, without costs.
+
+Plaintiff commenced this action against defendants, alleging breach of contract for
+terminating a sale under which defendants had agreed to sell it an antique Greek
+sculpture. Defendants responded that plaintiff was the one who breached the agreement,
+and asserted counterclaims for, among other things, fraudulent inducement and tortious
+interference with prospective economic relations. The court issued a temporary
+restraining order preventing defendants from transferring the sculpture to a new buyer.
+The parties then stipulated that defendant Phoenix would hold the sculpture at its storage
+facility pending the outcome of this action.
+
+The court properly dismissed defendants' fraudulent inducement counterclaim as
+duplicative of their breach of contract counterclaim. The alleged misrepresentation made
+by plaintiff that it had the capability and intent to immediately pay for the sculpture
+amounted only to an "insincere promise of future performance" of the contract (First
+Bank of Ams. v Motor Car Funding, 257 AD2d 287, 292 [1st Dept 1999]; see also Forty Cent. Park S., Inc. v
+Anza, 117 AD3d 523 [1st Dept 2014]; 767 Third Ave. LLC v Greble & Finger, LLP, 8 AD3d
+75 [1st Dept 2004]).
+
+The court also properly dismissed the counterclaim for tortious interference with
+prospective economic relations. The claim requires a showing that the interference was
+accomplished by wrongful means or with malicious intent (see Carvel Corp. v Noonan, 3
+NY3d 182, 191 [2004]; Jacobs v Continuum Health Partners, 7 AD3d 312 [1st
+Dept 2004]). " 'Wrongful means' include[s] physical violence, fraud or
+misrepresentation, civil suits and criminal prosecutions, and some degrees of economic
+pressure" (Carvel, 3 NY3d at 191). Where the interfering conduct is a civil suit, it
+must be shown that the suit was "frivolous" (Pagliaccio v Holborn Corp., 289
+AD2d 85, 85 [1st Dept 2001]).
+
+Accepting defendants' allegations as true and affording them every favorable
+inference (see Siegmund
+Strauss, Inc. v East 149th Realty Corp., 104 AD3d 401, 403 [1st Dept 2013]),
+defendants have set forth sufficient facts to support their claim that plaintiff's action
+against them was frivolous. However, "conduct constituting tortious interference with
+business relations is, by definition, conduct directed not at the plaintiff itself, but at the
+party with which the plaintiff has or seeks to have a relationship" (Carvel, 3
+NY3d at 192). Here, the interfering lawsuit was not directed at the defendants' customers
+so as to induce or cause them to terminate business relations with defendants. Rather, the
+suit was directed at defendants to prevent them from carrying out their obligations to sell
+the sculpture to the new buyer (see Devash LLC v German Am. Capital Corp., 104 AD3d
+71, 79 [1st Dept 2013], lv denied 21 NY3d 863 [2013] ["Nor does the
+complaint allege that any tortious activity was directed at the prospective lessees, rather
+than directly against plaintiff"];
+Rockwell Global Capital, LLC v Soreide Law Group, PLLC, 100 AD3d 448,
+449 [1st Dept 2012]). Defendants' argument that their business relationships with each
+other have been damaged by plaintiff's suit is unsupported and unavailing.
+Concur—Gonzalez, P.J., Friedman, Andrias, Gische and Kapnick, JJ. [Prior
+Case History: 2013 NY Slip Op 32737(U).]
+
+
+

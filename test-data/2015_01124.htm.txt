@@ -1,0 +1,123 @@
+
+	Johnson v Guthrie Med. Group, P.C.
+	2015 NY Slip Op 01124 [125 AD3d 1445]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 Christopher Johnson, Individually and as Parent and
+Natural Guardian of Zachary Johnson, an Infant, Respondent, v Guthrie Medical Group,
+P.C., et al., Defendants, and Ingrid Sterling, M.D., et al.,
+Appellants.
+
+
+
+
+
+Levene Gouldin & Thompson, LLP, Vestal (Lauren Kiley Saleeby of counsel),
+for defendant-appellant Ingrid Sterling, M.D.
+
+Hirsch & Tubiolo, P.C., Rochester (Bryan S. Kornfield of counsel), for
+defendants-appellants Pre-Emption Family Medicine, J. Michael Bell, M.D., P.C. and
+Richard J. Amsel, M.D.
+
+Donahue, Sabo, Varley & Huttner, LLP, Albany (Kenneth G. Varley of
+counsel), for defendant-appellant Cynthia Skovrinski, MS, Fnpc.
+
+Conway & Kirby, PLLC, Latham (Dana Boniewski of counsel), for
+plaintiff-respondent.
+
+
+
+
+
+Appeals from an order of the Supreme Court, Onondaga County (Deborah H.
+Karalunas, J.), entered October 16, 2013. The order, among other things, denied the
+motions of defendants Ingrid Sterling, M.D., Pre-Emption Family Medicine, J. Michael
+Bell, M.D., P.C., Cynthia Skovrinski, MS, FNPC, and Richard J. Amsel, M.D., to
+preclude certain testimony.
+
+It is hereby ordered that the order so appealed from is unanimously affirmed without
+costs.
+
+Memorandum: Plaintiff commenced this medical malpractice action in July 2006,
+alleging, inter alia, that defendants Ingrid Sterling, M.D., Pre-Emption Family Medicine,
+J. Michael Bell, M.D., P.C., Cynthia Skovrinski, MS, FNPC, and Richard J. Amsel, M.D.
+(collectively, defendants) failed to timely diagnose his son, born April 6, 2001, with
+melanoma. Following removal of the child's stage IV tumor in August 2004, further
+surgery was required to remove lymph nodes and his fifth finger to the wrist. Thereafter,
+the child underwent one month of a high-dose treatment with Interferon-alpha (IFN-a),
+followed by 11 months of a low-dose IFN-a treatment. In July 2013, plaintiff served a
+fifth and sixth supplemental bill of particulars and expert disclosure, alleging that the
+treatment with IFN-a caused long-term cognitive deficits, resulting in future loss of
+earnings and future life care expenses for the child. In various motions,
+defendants moved to strike the fifth and sixth bills of particulars; to preclude the expert
+disclosure; and to preclude expert testimony regarding the alleged causal relationship
+between IFN-a treatment and long-term cognitive deficits or, in the alternative, for a
+Frye hearing (see Frye v United States, 293 F 1013 [1923]). Supreme
+Court denied the motions. Defendants, as limited by their briefs, contend that the court
+erred in denying the motions to preclude expert testimony or for a Frye
+hearing.
+
+As a preliminary matter, we note that the court's pretrial order is appealable inasmuch
+as it "clearly involves the merits of the controversy" with respect to medical causation of
+alleged long-term cognitive defects, and "affects a substantial right" of the parties (Muhammad v [*2]Fitzpatrick, 91 AD3d 1353, 1353-1354 [2012];
+see CPLR 5701 [a] [2] [iv], [v]; Parker v Mobil Oil Corp., 16 AD3d 648, 650 [2005],
+affd 7 NY3d 434 [2006], rearg denied 8 NY3d 828 [2007]).
+
+With respect to the merits, we conclude that the court did not abuse its discretion in
+denying that part of defendants' motions seeking to preclude the expert testimony of a
+physician and a neuropsychologist. Defendants supported their motions with the expert
+affidavit of a board-certified neuropsychologist, who opined that the theory of causation
+for the child's cognitive deficits espoused by plaintiff's experts, i.e., that the IFN-a
+treatment caused those deficits, is not generally accepted in the scientific community.
+Defendants' expert acknowledged that chemotherapy can cause damage to healthy brain
+tissue and result in cognitive/neuropsychological deficits, but he disputed that IFN-a is a
+chemotherapeutic agent. In response, plaintiff provided, inter alia, the redacted affidavit
+of his undisclosed expert, a board-certified physician in pediatrics and pediatric
+hematology-oncology, who opined with a reasonable degree of medical certainty that the
+child's neurocognitive, educational, and emotional disabilities were caused by the use of
+IFN-a to treat melanoma and that such theory of causation is "supported in the scientific
+community." Plaintiff's undisclosed expert disputed the assertion of defendants' expert
+that IFN-a is not a chemotherapeutic agent. Plaintiff's undisclosed expert supported
+his/her theory of causation with numerous articles discussing the negative cognitive
+effects experienced by adults during and after treatment with IFN-a and the negative
+long-term effects of chemotherapy treatment on the developing brains of children.
+Plaintiff's undisclosed expert conceded that there are no studies regarding the long-term
+cognitive effects on children from IFN-a treatment.
+
+We conclude that the court properly denied that part of defendants' motions seeking a
+Frye hearing inasmuch as "the theory of causation set forth by plaintiff's expert[s]
+. . . is not premised on novel science but, rather, is premised on generally
+accepted scientific principles and existing data . . . Frye is not
+concerned with the reliability of a certain expert's conclusions, but instead with whether
+the expert[']s deductions are based on principles that are sufficiently established to have
+gained general acceptance as reliable" (DieJoia v Gacioch, 42 AD3d 977, 979 [2007] [internal
+quotation marks omitted]). Instead, we consider whether there is a proper foundation for
+the evidence to be admitted at trial (see Parker, 7 NY3d at 447). Here, we
+conclude that the court did not abuse its discretion in determining that there is a proper
+foundation for that evidence (see Jackson v Nutmeg Tech., Inc., 43 AD3d 599, 602
+[2007]). The experts laid a foundation for the theory that the child's cognitive deficits
+were caused by treatment with IFN-a with generally accepted medical principles of the
+cognitive effects on adults treated with IFN-a, a chemotherapeutic agent, and the
+cognitive effects of chemotherapy on the developing brain of a child. " '[T]he
+underlying support for the theory of causation [need not] consist of cases or studies
+considering circumstances exactly parallel to those under consideration in the litigation.
+It is sufficient if a synthesis of various studies or cases reasonably permits the
+conclusion[s] reached by the plaintiff's expert[s]' . . . 'The fact that there was
+no textual authority directly on point' . . . 'is relevant only to the weight to be
+given to the testimony, but does not preclude its admissibility' " (DieJoia,
+42 AD3d at 979-980). Present—Scudder, P.J., Centra, Carni and Sconiers, JJ.
+
+
+

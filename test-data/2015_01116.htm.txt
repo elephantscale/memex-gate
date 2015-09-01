@@ -1,0 +1,146 @@
+
+	Dischiavi v Calli
+	2015 NY Slip Op 01116 [125 AD3d 1435]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 Gary M. Dischiavi et al., Appellants, v William S. Calli,
+Jr., as Administrator of the Estate of William S. Calli, Deceased, et al., Respondents, et
+al., Defendant.
+
+
+
+
+
+Luibrand Law Firm, PLLC, Latham (Kevin A. Luibrand of counsel), for
+plaintiffs-appellants.
+
+Kernan and Kernan, P.C., Utica (Leighton R. Burns of counsel), for
+defendant-respondent William S. Calli, Jr., as Administrator of the Estate of William S.
+Calli, Deceased.
+
+George F. Aney, Herkimer, for defendant-respondent Robert Calli.
+
+Smith, Sovik, Kendrick & Sugnet, P.C., Syracuse (Karen Felter of counsel), for
+defendants-respondents Andrew S. Kowalczyk, Joseph Stephen Deery, Jr. and Calli,
+Kowalczyk, Tolles, Deery and Soja.
+
+Getnick Livingston Atkinson & Priore, LLP, Utica (Michael E. Getnick of
+counsel), for defendant-respondent Thomas S. Soja.
+
+
+
+
+
+Appeal from an order of the Supreme Court, Oneida County (James P. McClusky,
+J.), dated March 3, 2014. The order, insofar as appealed from, granted the motions of
+defendants-respondents to preclude plaintiffs from introducing certain evidence at
+trial.
+
+It is hereby ordered that the order insofar as appealed from is unanimously reversed
+on the law without costs and the motions are denied.
+
+Memorandum: In this legal malpractice action, plaintiffs appeal from that part of an
+order granting the motions of defendants-respondents (hereafter, defendants) to preclude
+plaintiffs from introducing certain evidence at trial. We agree with plaintiffs that
+Supreme Court erred in granting the motions, and we therefore reverse the order insofar
+as appealed from.
+
+This case has been before us on two prior occasions (Dischiavi v Calli
+[appeal No. 2], 68 AD3d 1691 [2009] [Dischiavi I]; Dischiavi v Calli, 111 AD3d
+1258 [2013] [Dischiavi II]), both involving, inter alia, the motions of various
+defendants for summary judgment. In both appeals, at least some defendants sought
+summary judgment dismissing the legal malpractice cause of action based upon the
+expiration of the statute of limitations, and we rejected that contention in both prior
+appeals. Specifically, in Dischiavi I, we concluded that, "[w]ith respect to the
+legal malpractice cause of action, there is a triable issue of fact whether plaintiffs are
+entitled to the toll provided by the continuous representation doctrine" (68 AD3d at
+1694). Again in Dischiavi II, we affirmed that part of the order on appeal that
+denied the various defendants' motions for [*2]summary
+judgment on the ground "that plaintiffs raised a triable issue of fact whether the doctrine
+of continuous representation tolled the statute of limitations" (111 AD3d at
+1260-1261).
+
+The matter progressed toward trial after this Court issued its decision in Dischiavi
+II. In the order on appeal, the court granted defendants' motions to preclude plaintiffs
+from introducing evidence that any of the defendants represented plaintiffs with respect
+to any issue other than an issue in the context of a medical malpractice action against a
+physician. The effect of that order was to limit plaintiffs to introducing evidence that, in
+1994, one of the defendants made a statement to Gary M. Dischiavi (plaintiff) indicating
+that the medical malpractice action was not viable.
+
+We note at the outset that, although the parties do not address the appealability of
+this order determining a motion in limine, we conclude that plaintiffs may appeal from
+the order at issue (see Franklin
+Corp. v Prahler, 91 AD3d 49, 54 [2011]). "Generally, an order ruling [on a
+motion in limine], even when made in advance of trial on motion papers constitutes, at
+best, an advisory opinion which is neither appealable as of right nor by permission" (Innovative Transmission &
+Engine Co., LLC v Massaro, 63 AD3d 1506, 1507 [2009] [internal quotation
+marks omitted]; see Scalp & Blade v Advest, Inc., 309 AD2d 219, 224
+[2003]). This Court has noted, however, that "there is a distinction between an order that
+'limits the admissibility of evidence,' which is not appealable . . . , and one
+that 'limits the legal theories of liability to be tried' or the scope of the issues at trial,
+which is appealable" (Scalp & Blade, 309 AD2d at 224). Here, the order
+precluded the introduction of the vast majority of the evidence on the issue whether
+defendants continued to represent plaintiffs so as to toll the statute of limitations, and
+thus it is appealable because it limits the scope of the issues at trial (see generally O'Donnell v
+Ferguson, 100 AD3d 1534, 1535-1536 [2012]; Catanese v Furman, 27 AD3d
+1050, 1051 [2006]).
+
+With respect to the substantive issue, we note that, after our determinations in
+Dischiavi I and Dischiavi II that there was a triable issue of fact whether
+the doctrine of continuous representation tolled the statute of limitations, the court
+granted those parts of defendants' motions in limine seeking to preclude plaintiffs from
+offering evidence to establish that there had been such representation. Although the court
+has broad discretion to determine the admissibility of evidence, we agree with plaintiffs
+that the court abused that discretion here. Defendants are correct that, "in the context of a
+legal malpractice action, the continuous representation doctrine tolls the [s]tatute of
+[l]imitations only where the continuing representation pertains specifically to the matter
+in which the attorney committed the alleged malpractice" (Shumsky v Eisenstein,
+96 NY2d 164, 168 [2001]). The continuous representation doctrine is derived from the
+continuous treatment doctrine in medical malpractice cases (see Mercone v Monroe County
+Deputy Sheriffs' Assn., Inc., 90 AD3d 1698, 1699 [2011]; Pollicino v
+Roemer & Featherstonhaugh, 260 AD2d 52, 54 [1999]), however, and as the
+Court of Appeals explained later in Shumsky, "[i]ncluded within the scope of
+continuous treatment is a timely return visit instigated by the patient to complain about
+and seek treatment for a matter related to the initial treatment" (id. at 170 [internal
+quotation marks omitted]). Thus, the statute of limitations in a legal malpractice action is
+tolled where, as here, a "defendant continuously represented the plaintiffs during [the
+relevant] period by performing legal services related to the matter out of which the
+malpractice claim arose" (Kuritzky v Sirlin & Sirlin, 231 AD2d 607, 608
+[1996]).
+
+Furthermore, in both prior appeals we concluded that there was a triable issue of fact
+whether the statute of limitations was tolled because, in opposition to the various
+defendants' motions for summary judgment, plaintiffs raised a triable issue of fact
+whether one or more of the defendants continued to represent plaintiffs on a related
+matter (Dischiavi I, 68 AD3d at 1694; Dischiavi II, 111 AD3d at
+1260-1261). We reached that conclusion because, in opposition to defendants' motions
+for summary judgment, plaintiffs "adduced persuasive evidence establishing that
+[defendants] performed continuing legal services [throughout the time during which the
+statute is alleged to have been tolled] to correct [their] alleged failure to effectively"
+commence an action to recover damages for plaintiff's injuries (N&S Supply v
+Simmons, 305 AD2d 648, 650 [2003]). Here, the evidence that defendants sought to
+preclude was highly relevant to the issue whether the actions in question involved "an
+attempt by the attorney to rectify an alleged act of malpractice" that would constitute
+continuing representation sufficient to toll the statute of limitations (Luk Lamellen U.
+Kupplungbau GmbH v Lerner, 166 AD2d 505, 506-507 [1990]; see Weiss v
+Manfredi, 83 NY2d 974, 977 [1994], rearg denied 84 NY2d 848 [1994]; DeStaso v Condon Resnick,
+LLP, 90 AD3d 809, 812-813 [2011]).
+[*3]    Consequently, we reverse the order insofar as appealed
+from and deny the motions. Present—Smith, J.P., Fahey, Whalen and DeJoseph,
+JJ.
+
+
+

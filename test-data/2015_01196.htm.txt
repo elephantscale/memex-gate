@@ -1,0 +1,111 @@
+
+	People v Vences
+	2015 NY Slip Op 01196 [125 AD3d 1050]
+	February 11, 2015
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 The People of the State of New York, Respondent, v
+Jose L. Vences, Appellant.
+
+
+
+
+
+Jane M. Bloom, Monticello, for appellant.
+
+James R. Farrell, District Attorney, Monticello (Katy Schlichtman of counsel), for
+respondent.
+
+
+
+
+
+Lynch, J. Appeal from a judgment of the County Court of Sullivan County (LaBuda,
+J.), rendered February 1, 2013, convicting defendant upon his plea of guilty of the crime
+of burglary in the second degree.
+
+Defendant entered a guilty plea to burglary in the second degree in satisfaction of an
+indictment that also charged petit larceny. No plea agreement was reached because the
+People were unwilling to recommend defendant, age 16 at the time, for youthful offender
+status (see CPL 720.10). County Court imposed a prison term of five years, with
+five years of postrelease supervision, and denied youthful offender status. Defendant
+now appeals.
+
+A review of the record supports defendant's contention that his guilty plea and
+waiver of appeal were not knowing, voluntary and intelligent. As a threshold matter, the
+terms under which defendant was entering a guilty plea were not clearly stated prior to
+the plea allocution, County Court misstated the minimum term of postrelease supervision
+(see Penal Law § 70.45 [2] [f]), and defendant was not advised of
+the maximum potential sentence (see People v Brown, 77 AD3d 1053, 1054 [2010]). While
+the People stated that defendant would be entering an "open" guilty plea to both counts
+of the indictment without an appeal waiver, which defendant was entitled to do "as a
+matter of right" (CPL 220.10 [2]), upon inquiry from County Court defense counsel
+stated, without explanation or discussion, that defendant would be waiving his right to
+appeal. The court then reiterated that there was no plea agreement. After defendant's plea
+allocution to the burglary count only, the People changed course and indicated that
+defendant [*2]would not be required to enter a plea to the
+remaining count and the court stated that the plea satisfied that charge. Thus, the record
+does not reflect that defendant was accurately advised, prior to the plea allocution, of his
+rights, options or the terms of his plea.
+
+Moreover, "[w]hen a defendant opts to plead guilty, he [or she] must waive certain
+constitutional rights—the privilege against self-incrimination and the rights to a
+jury trial and to be confronted by witnesses" (People v Tyrell, 22 NY3d 359, 365 [2013], citing
+Boykin v Alabama, 395 US 238, 243 [1969]). While there is no "uniform
+mandatory catechism" (People v
+Alexander, 19 NY3d 203, 219 [2012] [internal quotation marks and citation
+omitted]), and the court need not "specifically enumerate all the rights" implicated
+(People v Harris, 61 NY2d 9, 16 [1983]), here, the only constitutional right
+referred to was the right to a jury trial. We cannot conclude that defendant's guilty plea
+was knowing, voluntary and intelligent as there was neither "an affirmative showing on
+the record that defendant waived his constitutional rights" (People v Tyrell, 22
+NY3d at 365 [internal quotation marks and citation omitted]), nor any indication that he
+"consulted with his attorney about the constitutional consequences of a guilty plea"
+(id.; see People v Fiumefreddo, 82 NY2d 536, 543 [1993]; compare
+People v Ocasio-Rosario, 120 AD3d 1463, 1464 [2014]).[FN*]
+
+We also note, with regard to the oral appeal waiver, that County Court did not
+adequately convey "that the right to appeal is separate and distinct from those rights
+automatically forfeited upon a plea of guilty" but, rather, improperly lumped those rights
+together (People v Lopez, 6
+NY3d 248, 256 [2006]; see
+People v Bradshaw, 18 NY3d 257, 264 [2011]). Although the record contains a
+written appeal waiver dated the same day as the plea proceedings, there was no "attempt
+by the court to ascertain on the record an acknowledgment from defendant that he had, in
+fact, signed the waiver or that, if he had, he was aware of its contents" (People v
+Callahan, 80 NY2d 273, 283 [1992]; see People v Patterson, 119 AD3d 1157, 1158 [2014],
+lv denied 24 NY3d 1046 [2014]). In light of the foregoing, defendant's remaining
+contentions need not be addressed.
+
+Peters, P.J., Lahtinen and McCarthy, JJ., concur. Ordered that the judgment is
+reversed, as a matter of discretion in the interest of justice, and matter remitted to the
+County Court of Sullivan County for further proceedings not inconsistent with this
+Court's decision.
+
+
+
+Footnotes
+
+
+
+
+Footnote *:While defendant did not
+move to withdraw his plea on this ground, the Court of Appeals has suggested that a
+"Boykin rights" error "could also be viewed as a mode of proceedings error for
+which preservation is not required" (People v Tyrell, 22 NY3d at 364). In any
+event, we exercise our interest of justice jurisdiction to reverse the judgment (see
+CPL 470.15 [3] [c]).
+
+
+
