@@ -1,0 +1,24 @@
+Phase: Date_of_Filing_Recognition
+Input: Lookup Token SpaceToken Month
+
+
+Rule: Date_of_Filing
+(
+   (
+      {Token.String == "rendered"} |
+      {Token.String == "entered"} |
+      {Token.String == "dated"} |
+      {Token.String == "filed"} |
+      {Token.String == "imposed"}
+   )
+   ({SpaceToken})+
+   {Token.String == "on"}
+   ({SpaceToken})+
+   {Token.String == "or"}
+   ({SpaceToken})+
+   {Token.String == "about"}
+   ({SpaceToken})+
+   {Month}
+)
+-->
+  :match.Date_of_Filing = { rule = "Date Of Filing" }

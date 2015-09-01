@@ -1,4 +1,4 @@
-Phase: Person_Name_Recognition
+Phase: Case_Number_Recognition
 Input: Lookup Token SpaceToken
 Options: control = first
 
