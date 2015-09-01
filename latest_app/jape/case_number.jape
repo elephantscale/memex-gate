@@ -3,7 +3,28 @@ Input: Lookup Token SpaceToken
 Options: control = first
 
 
-Rule: Case_Number
+Rule: Case_Number_Pattern_1
+(
+  {Token.string ==~ "[0-9]{4}"}
+  ({SpaceToken})+
+  (
+    ({Token.string == "NYSlipOp"})
+  |
+    (
+      {Token.string == "NY"}
+      ({SpaceToken})+
+      {Token.string == "Slip"}
+      ({SpaceToken})+
+      {Token.string == "Op"}
+    )
+  )
+  ({SpaceToken})+
+  {Token.string ==~ "[0-9]*"}
+):match
+-->
+  :match.Case_Number = {rule = "Case_Number_Pattern_1"}
+
+Rule: Case_Number_Pattern_2
 (
    (
      {Token.string == "["}
@@ -15,4 +36,4 @@ Rule: Case_Number
    ):match
 )
 -->
-  :match.Case_Number = { rule = "Case_Number" }
+  :match.Case_Number = { rule = "Case_Number_Pattern_2" }
