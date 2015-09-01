@@ -1,0 +1,18 @@
+Phase: Person_Name_Recognition
+Input: Lookup Token SpaceToken
+Options: control = first
+
+
+Rule: Case_Number
+(
+   (
+     {Token.string == "["}
+     {Token.string ==~ "[0-9]"}
+     {SpaceToken}
+     {Token.string ==~ "[aA][dD]"}
+     (({Token}) | ({SpaceToken}))+
+     {Token.string == "]"}
+   ):match
+)
+-->
+  :match.Case_Number = { rule = "Case_Number" }

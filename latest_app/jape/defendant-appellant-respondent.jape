@@ -5,14 +5,14 @@ Options: control = appelt
 
 Rule: Defendant_Respondent_Recognition
 (
-   ({Token.string ==~ "defendant-respondent[s]?"}):defendant_respondent
+   ({Token.string ==~ "[Dd]efendant-[Rr]espondent[s]?"}):defendant_respondent
 )
 -->
   :defendant_respondent.Defendant_Respondent = {rule = "Defendant_Respondent_Recognition"}
 
 Rule: Defendant_Appellant_Recognition
 (
-   ({Token.string ==~ "defendant-appellant[s]?"}):defendant_appellant
+   ({Token.string ==~ "[Dd]efendant-[Aa]ppellant[s]?"}):defendant_appellant
 )
 -->
   :defendant_appellant.Defendant_Appellant = {rule = "Defendant_Appellant_Recognition"}
