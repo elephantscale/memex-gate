@@ -15,7 +15,7 @@ Rule: Assisant_District_Attorney_Recognition
      {Token.string == "Attorney"}
      ({Token.string == ","})?
    )
-   ( // possibly city
+  ( // possibly city
       {SpaceToken}
       {Token}
    )[0,3]

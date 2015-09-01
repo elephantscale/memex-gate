@@ -68,7 +68,7 @@ Rule: PersonName_Initials_Middle
 (
   (PERSON_NAME_PART)
   (INITIALS_TOKEN)?
-  {SpaceToken}
+  ({SpaceToken})+
   (PERSON_NAME_PART)
 ):person_name_match
 -->
