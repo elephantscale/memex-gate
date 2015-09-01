@@ -1,0 +1,180 @@
+
+	Matter of Techniplex III v Town & Vil. of E.
+Rochester
+	2015 NY Slip Op 01101 [125 AD3d 1412]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 In the Matter of Techniplex III, a Partnership,
+Respondent, v Town and Village of East Rochester, Appellants. (Appeal No.
+1.)
+
+
+
+
+
+Lacy Katzen LLP, Rochester (John T. Refermat of counsel), for
+respondents-appellants.
+
+Ward Greenberg Heller & Reidy LLP, Rochester (Daniel P. Purcell of counsel),
+for petitioner-respondent.
+
+
+
+
+
+Appeal from an order of the Supreme Court, Monroe County (Matthew A.
+Rosenbaum, J.), entered October 24, 2013 in a proceeding pursuant to RPTL article 7.
+The order, among other things, granted the petitions in part and ordered respondents to
+correct the assessment rolls and to refund the tax overpayments with interest.
+
+It is hereby ordered that the order so appealed from is unanimously affirmed without
+costs.
+
+Memorandum: Petitioners, related commercial entities with common ownership,
+commenced these RPTL article 7 proceedings seeking review of the real property tax
+assessments for three commercial properties located in respondents Town and Village of
+East Rochester for the tax years 2009, 2010, and 2011. In each of the appeals,
+respondents appeal from an order granting the respective petitions in part and ordering
+respondents to correct the assessment rolls and to refund the tax overpayments with
+interest. We affirm the orders in each appeal.
+
+Contrary to the contention of respondents in all three appeals, we conclude that
+petitioners met their initial burden of presenting "substantial evidence that the propert[ies
+were] overvalued" (Matter of
+Roth v City of Syracuse, 21 NY3d 411, 417 [2013]), thereby rebutting the
+"presumption of validity [that] attaches to the valuation of property made by the taxing
+authority" (id.; see
+Matter of Board of Mgrs. of French Oaks Condominium v Town of Amherst, 23
+NY3d 168, 174-175 [2014]). "In the context of tax assessment cases, the 'substantial
+evidence' standard merely requires that petitioner demonstrate the existence of a valid
+and credible dispute regarding valuation" (Matter of FMC Corp. [Peroxygen Chems.
+Div.] v Unmack, 92 NY2d 179, 188 [1998]; see Matter of East Med. Ctr., L.P. v Assessor of Town of
+Manlius, 16 AD3d 1119, 1120 [2005]). "The ultimate strength, credibility or
+persuasiveness of petitioner's arguments are not germane during this threshold inquiry"
+(FMC Corp., 92 NY2d at 188; see Matter of W.O.R.C. Realty Corp. v Board of Assessors, 100
+AD3d 75, 88 [2012], lv denied 20 NY3d 862 [2013]). Here, petitioners
+submitted appraisals by a qualified expert who valued the subject properties utilizing the
+income capitalization approach to valuation, which is "generally regarded as the
+preferred method for determining the value of income-producing propert[ies]" such as
+those at issue in this case (41 Kew Gardens Rd. Assoc. v Tyburski, 70 NY2d 325,
+331 [1987]; see Matter of OCG
+L.P. v Board of Assessment Review of the Town of Owego, 79 AD3d 1224,
+1226 [2010]). Further, the appraisals "contained documentation and calculations to
+support the underlying methodolog[y] and the ultimate valuation" (Matter of United Parcel Serv. v
+Assessor of Town of Colonie, 42 AD3d 835, 838 [2007]; see 22
+NYCRR 202.59 [g] [2]). "The fact that some aspects of [the expert]'s valuation
+methodology may be subject to question goes to the weight to be accorded the
+appraisal[s] and [*2]not to 'the threshold issue of whether
+petitioner[s] produced substantial evidence to rebut the presumption of validity' "
+(OCG L.P., 79 AD3d at 1226; see FMC Corp., 92 NY2d at
+187-188).
+
+We further conclude with respect to all three appeals that petitioners met their
+ultimate burden of establishing by a preponderance of the evidence that the three
+properties were overvalued and thus that the challenged assessments were excessive
+(see generally Board of Mgrs. of French Oaks Condominium, 23 NY3d at
+174-175; FMC Corp., 92 NY2d at 188). Contrary to respondents' contention,
+Supreme Court did not err in relying upon actual rents rather than market rents in
+determining the value of the subject properties (see Matter of Conifer Baldwinsville
+Assoc. v Town of Van Buren, 68 NY2d 783, 785 [1986]). It is well established that
+"valuation [is] largely a question of fact, and the [trial] courts have considerable
+discretion in reviewing the relevant evidence as to the specific propert[ies] before them"
+(Matter of Consolidated Edison
+Co. of N.Y., Inc. v City of New York, 8 NY3d 591, 597 [2007]). "As a general
+rule, actual rental income is often the best indicator of value" (Matter of Schoeneck v
+City of Syracuse, 93 AD2d 988, 988 [1983], citing Matter of Merrick Holding
+Corp. v Board of Assessors of County of Nassau, 45 NY2d 538, 543 [1978]),
+although actual income " 'may be disregarded where it does not reflect full
+value' " (Matter of North Country Hous. v Board of Assessment Review for
+Vil. of Potsdam, 298 AD2d 667, 668 [2002]; see Merrick Holding Corp., 45
+NY2d at 543; Matter of Schachenmayr v Board of Assessors of Town of N. Elba,
+263 AD2d 731, 734 [1999]). Here, there is no evidence that the rents petitioners charged
+were arbitrary or the result of collusion or self-dealing (see Merrick Holding
+Corp., 45 NY2d at 543; North Country Hous., 298 AD2d at 668-669), and
+respondents "failed to establish that the actual income was not reflective of the market
+for the years under review" (Matter of County Dollar Corp. v City of Yonkers, 97
+AD2d 469, 475 [1983], lv dismissed 61 NY2d 603 [1984], rearg denied
+61 NY2d 905 [1984]; see Matter of Troy Realty Assoc. v Board of Assessors of City
+of Troy, 227 AD2d 813, 814 [1996]).
+
+In addition to their general objection to the use of actual as opposed to market rents,
+respondents object to the valuation of two specific leased spaces at issue in appeal Nos. 1
+and 2. In appeal No. 1, respondents contend that the court undervalued the subject
+property (Techniplex III) because it did not assign a market value to the restaurant
+located on the property. We reject that contention. The restaurant is operated by Tim
+Donut U.S. Limited (Tim Donut) pursuant to a 30-year ground lease with petitioners.
+During the tax years at issue, Tim Donut leased the land underlying the restaurant for
+$30,000 per year. Tim Donut owned the restaurant and therefore paid no rent for the
+building itself. Nevertheless, respondents' appraiser valued Techniplex III by estimating
+what the market rent would be if petitioners were leasing both the land and the building.
+He did so by comparing the rents paid by other fast-food restaurants "where[ ] the land
+and buildings are leased in their entirety."
+
+"The ultimate purpose of valuation . . . is to arrive at a fair and realistic
+value of the property involved" (Matter of Allied Corp. v Town of Camillus, 80
+NY2d 351, 356 [1992], rearg denied 81 NY2d 784 [1993]; see Matter of
+Commerce Holding Corp. v Board of Assessors of Town of Babylon, 88 NY2d 724,
+729 [1996]). The income capitalization approach to valuation "rests on the proposition
+that the value of income-producing property is the amount a willing buyer, desiring but
+not compelled to purchase it as an investment, would be prepared to pay for it under
+ordinary conditions to a seller who desires, but is not compelled, to sell . . .
+That amount will depend on the net income the property will likely produce inasmuch as
+the purchase price represents the present worth of anticipated future benefits" (Matter of Hempstead Country Club
+v Board of Assessors, 112 AD3d 123, 136 [2013] [internal quotation marks
+omitted]). Here, the " 'net income the property will likely produce' "
+(id.), at least for the next 30 years, is the amount of the ground lease. We
+therefore conclude that the court did not abuse its discretion in valuing the property
+based upon the ground lease payments rather than the theoretical market value of the land
+and building leased as a unit (see generally Commerce Holding Corp., 88 NY2d
+at 729; Matter of Alexander's Dept. Store of Val. Stream v Board of Assessors,
+227 AD2d 549, 549-550 [1996]).
+
+We likewise reject respondents' contention in appeal No. 2 that the court undervalued
+the subject property (Techniplex I) because it failed to assign a market value to space
+leased by Excellus BlueCross BlueShield (Excellus). During the tax years at issue,
+Excellus was the property's largest tenant, occupying some 53,000 square feet on the first
+floor of the building and 16,000 square feet on the second floor of the building. Excellus
+leased the second floor space "rent free," paying only its proportionate share of the
+associated operating expenses and real [*3]estate taxes.
+Contrary to respondents' contention, the record establishes that the actual rent petitioners
+received from Excellus was reflective of the market value of the leased space during the
+tax years at issue. Petitioners' property manager testified that the East Rochester
+commercial market is "very challenging" and less attractive to tenants than other Monroe
+County suburbs. Petitioners' appraiser similarly testified that East Rochester was in a
+"transitioning to decline phase," with a shrinking population base, the lowest median
+home prices in suburban Monroe County, and no major commercial or industrial
+development in two decades.
+
+Petitioners' property manager further testified that Techniplex I presented additional
+challenges in securing tenants. The building was originally developed as a retail mall in
+the early 1970s and was thereafter converted to commercial office space with minimal
+exterior windows and door access. As a result, the property manager testified that
+petitioners have had to make "considerable concessions" to induce tenants to lease space
+in Techniplex I, including free or reduced rent and subsidized tenant improvements.
+After a long-term tenant vacated the property in mid-2004, Techniplex I remained largely
+vacant until September 2005, when Excellus moved in. Petitioners ultimately offered
+Excellus the second floor space rent free in order to induce it to lease space in
+Techniplex I. Inasmuch as the record establishes that the lease "result[ed] from arm's
+length bargaining carried out in good faith," we conclude that the court did not err in
+using the actual rent received from Excellus in determining the valuation of Techniplex I
+(Merrick Holding Corp., 45 NY2d at 543; see Alexander's Dept. Store of Val.
+Stream, 227 AD2d at 549-550; County Dollar Corp., 97 AD2d at 473).
+
+We have considered respondents' remaining contentions and conclude that they are
+without merit. Present—Smith, J.P., Peradotto, Carni, Valentino and DeJoseph,
+JJ.
+
+
+

@@ -1,0 +1,115 @@
+
+	Riverview Dev. LLC v City of Oswego
+	2015 NY Slip Op 01105 [125 AD3d 1417]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	  Riverview Development LLC, Appellant, v City of
+Oswego et al., Respondents. (Appeal No. 1.)
+
+
+
+
+
+The Steele Law Firm, P.C., Oswego (Kimberly A. Steele of counsel), for
+plaintiff-appellant.
+
+Bond, Schoeneck & King, PLLC, Oswego (Douglas M. McRae of counsel), for
+defendants-respondents City of Oswego, Common Council of City of Oswego and
+Honorable Thomas W. Gillen, as Mayor of City of Oswego.
+
+Bousquet Holstein PLLC, Syracuse (Robert K. Weiler of counsel), for
+defendant-respondent Sre Midtown Garage Acquisitions, LLC.
+
+
+
+
+
+Appeal from an order and judgment (one paper) of the Supreme Court, Oswego
+County (Norman W. Seiter, Jr., J.), entered August 12, 2013. The order and judgment
+denied the application of plaintiff for a preliminary injunction and granted the cross
+motion of defendants for summary judgment dismissing the complaint.
+
+It is hereby ordered that the order and judgment so appealed from is unanimously
+affirmed without costs.
+
+Memorandum: These consolidated appeals involve a dispute over the sale of a
+parking garage in defendant City of Oswego (City), and the three plaintiffs are related
+entities who collectively seek, inter alia, a "declaration" that the resolution and the
+purchase and sale agreement for the sale of the parking garage is null and void pursuant
+to General Municipal Law § 51 because the sale "causes waste of public
+property" and, inter alia, constitutes "a fraud upon the taxpayers of the City." In appeal
+No. 1, the plaintiff therein appeals from an order and judgment that, inter alia, granted
+defendants' cross motion for summary judgment dismissing the complaint as, inter alia,
+time-barred. In appeal No. 2, the plaintiffs therein appeal from an order and judgment
+granting defendants' cross motion to dismiss the complaint as, inter alia, time-barred.
+
+The garage, which is adjacent to a retail shopping center known as Midtown Plaza
+that is owned by defendant SRE Midtown Garage Acquisitions, LLC (SRE), has been
+leased to SRE for use by Midtown Plaza shoppers and has also provided free public
+parking. However, the garage is almost 50 years old and in August 2012, concrete fell
+from the deck, causing property damage. In November 2012, an engineering firm
+performed a structural condition assessment for the City and recommended, inter alia,
+"discontinued public access and parking" on the upper level until permanent repairs are
+made. The engineering firm estimated that the total cost of needed repairs and upgrades
+would be $3,983,700.
+
+In early December 2012, SRE offered to purchase the garage as part of its plan to
+develop the entire City block comprising the garage and Midtown Plaza. On December
+10, 2012, [*2]defendant Common Council of the City
+passed a resolution authorizing defendant Mayor of the City to execute a purchase and
+sale agreement with SRE for the garage. The resolution was approved the next day, on
+December 11, 2012, and the City and SRE thereafter executed a purchase and sale
+agreement.
+
+We conclude in appeal Nos. 1 and 2 that Supreme Court properly determined that the
+four-month statute of limitations set forth in CPLR 217 applies to the causes of action
+asserted by plaintiffs in their respective complaints and that the actions are time-barred.
+The causes of action under General Municipal Law § 51 have no specific
+limitations period, and we must "examine the substance of th[e] action to identify the
+relationship out of which the claim[s] arise[ ] and the relief sought" (Solnick v
+Whalen, 49 NY2d 224, 229 [1980]; see Hartnett v New York City Tr. Auth.,
+86 NY2d 438, 443-444 [1995]; Matter of Doorley v DeMarco, 106 AD3d 27, 33 [2013]).
+"If the rights of the parties may be resolved in a different form of proceeding for which a
+specific limitations period applies, then we must use that period" (Doorley, 106
+AD3d at 33). Ultimately, "the nature of the remedy rather than the theory of liability is
+the salient consideration in ascertaining the applicable [s]tatute of [l]imitations"
+(Clowes v Pulver, 258 AD2d 50, 53 [1999], lv dismissed 94 NY2d 858
+[1999]). Here, plaintiffs are challenging the resolution authorizing defendant Mayor to
+execute a purchase and sale agreement for the garage. The resolution was an
+administrative act, rather than a legislative act, inasmuch as it applies only to the City and
+SRE (see Town of Webster v Village of Webster, 280 AD2d 931, 933 [2001]). It
+is well established that the proper vehicle for challenging an administrative act is a CPLR
+article 78 proceeding, and thus the four-month statute of limitations under CPLR 217
+applies (see Matter of Resnick v
+Town of Canaan, 38 AD3d 949, 953 [2007]).
+
+Contrary to plaintiffs' further contention, the limitations period "was triggered on
+. . . the date on which the [Common] Council adopted the resolution"
+authorizing the sale (Matter of Gach v City of Long Beach, 218 AD2d 801, 801
+[1995]; see Matter of Long Is.
+Pine Barrens Socy., Inc. v County of Suffolk, 55 AD3d 610, 612 [2008]). The
+"determination to be reviewed" became final and binding on plaintiffs on December 11,
+2012 when the resolution went into effect (Matter of Best Payphones, Inc. v Department of Info. Tech. &
+Telecom. of City of N.Y., 5 NY3d 30, 34 [2005], rearg denied 5 NY3d
+824 [2005]). It was at that juncture that the City "reached a definitive position
+. . . that inflict[ed] actual, concrete injury . . . [that could not]
+be prevented or significantly ameliorated by further administrative action or by steps
+available to the complaining part[ies]" (Best Payphones, Inc., 5 NY3d at 34;
+see Long Is. Pine Barrens Socy., Inc., 55 AD3d at 612; Gach, 218 AD2d
+at 801-802). Present—Smith, J.P., Peradotto, Carni, Valentino and DeJoseph,
+JJ.
+
+
+

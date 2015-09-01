@@ -1,0 +1,142 @@
+
+	People v Johnson
+	2015 NY Slip Op 01107 [125 AD3d 1419]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 The People of the State of New York,
+Respondent,
+v
+Randy Johnson, Appellant. (Appeal No.
+1.)
+
+
+
+
+
+The Legal Aid Bureau of Buffalo, Inc., Buffalo (Alan Williams of counsel), for
+defendant-appellant.
+
+Lawrence Friedman, District Attorney, Batavia (William G. Zickl of counsel), for
+respondent.
+
+
+
+
+
+Appeal from a judgment of the Genesee County Court (Robert C. Noonan, J.),
+rendered April 25, 2013. The judgment convicted defendant, upon his plea of guilty, of
+reckless assault of a child.
+
+It is hereby ordered that the judgment so appealed from is unanimously
+affirmed.
+
+Memorandum: In appeal No. 1, defendant appeals from a judgment convicting him,
+upon his plea of guilty, of reckless assault of a child (Penal Law § 120.02)
+in connection with a medical diagnosis determining that the child victim had sustained
+serious physical injury as a result of shaken baby syndrome. Contrary to defendant's
+contention, the record establishes that his waiver of the right to appeal was made
+knowingly, intelligently and voluntarily (see People v Lopez, 6 NY3d 248, 256 [2006]). County
+Court explained that defendant was waiving "almost all issues as to sentence and
+punishment" including the length of the sentence, and the written waiver of the right to
+appeal set forth both the specific rights that defendant was waiving and those that were
+not encompassed by the waiver. The court ascertained that defendant had reviewed the
+written waiver with his attorney, that he understood it, and that he had no questions for
+his attorney or the court before signing it (see People v Ramos, 7 NY3d 737, 738 [2006]; People v Bridenbaker, 112
+AD3d 1379, 1379 [2013]; cf. People v Bradshaw, 18 NY3d 257, 262 [2011]). We
+therefore conclude that defendant's valid waiver of the right to appeal encompasses his
+contention that the sentence is unduly harsh and severe (see Lopez, 6 NY3d at
+256; People v Connolly,
+114 AD3d 1231, 1231-1232 [2014], lv denied 23 NY3d 961 [2014]). In any
+event, that contention is without merit.
+
+Based upon defendant's explanation during his plea colloquy of his actions, i.e., that
+he had quickly grabbed the victim from the basinet on one occasion and had played with
+him by "tossing" him in a spinning motion, the court conducted a presentence hearing to
+obtain information regarding shaken baby syndrome. The People presented the testimony
+of the victim's treating physician, who is board certified in emergency pediatric care and
+pediatric child abuse. She explained that the injuries required more force to cause an
+acceleration and deceleration of the victim's head than would have occurred by the
+actions defendant described. She denied on cross-examination that certain medical
+conditions that the victim had were a contributing factor to his injuries. She
+acknowledged, however, that one of those medical conditions, i.e., macrocephali, was a
+source of controversy in the medical community with respect to shaken baby syndrome
+but she explained that there was no medical evidence to support the theory that
+macrocephali contributed to a symptom of shaken baby syndrome, i.e., subdural
+hematomas. In any event, the treating physician explained that the victim lacked spinal
+fluid between the skull and the brain, which is the condition that some physicians believe
+causes tension on the veins between the skull and the brain, thereby causing the veins to
+rupture, resulting in subdural hematomas. She also denied that the victim's retinal
+hemorrhages were related to premature retinopathy because that condition had healed
+before the victim sustained [*2]the retinal
+hemorrhages.
+
+Following the hearing, the court denied defense counsel's request for an adjournment
+of sufficient duration to permit him to consult with an expert to explore the possibility
+whether the treating physician's testimony could be contradicted, noting that defense
+counsel had effectively cross-examined the treating physician. Contrary to defendant's
+contention, we conclude that the court did not abuse or improvidently exercise its
+discretion in denying the requested adjournment of sentencing (see People v Walker, 115
+AD3d 1357, 1357 [2014], lv denied 23 NY3d 1069 [2014]).
+
+We reject defendant's further contention that he was denied effective assistance of
+counsel based upon defense counsel's failure to consult with, or provide the testimony of,
+an expert to rebut the testimony of the victim's treating physician with respect to shaken
+baby syndrome. Defendant has failed to meet his burden of establishing that "such expert
+testimony was available, that it would have assisted the [court] in its determination or
+that he was prejudiced by its absence" (People v Woolson, 122 AD3d 1353, 1354 [2014] [internal
+quotation marks omitted]; see
+People v West, 118 AD3d 1450, 1451 [2014], lv denied 24 NY3d 1048
+[2014]). Moreover, the record establishes that defense counsel consulted with medical
+professionals and effectively cross-examined the treating physician. Viewing "the
+evidence, the law, and circumstances of [this] case, . . . in totality and as of
+the time of the representation" (People v Baldi, 54 NY2d 137, 147 [1981]), we
+conclude that defendant received meaningful representation (cf. People v Oliveras, 21 NY3d
+339, 348 [2013]).
+
+In appeal No. 2, defendant contends that the court erred in ordering restitution in the
+amount of $7,378 to be paid to the Genesee County Department of Social Services (DSS)
+for the cost of providing foster care for the victim. Inasmuch as that item of restitution
+affects the legality of the sentence, the contention is not encompassed in the waiver of the
+right to appeal (see People v
+Boatman, 110 AD3d 1463, 1463-1464 [2013], lv denied 22 NY3d 1039
+[2013]; see generally People v Seaberg, 74 NY2d 1, 9 [1989]). We agree with
+defendant that the court erred in determining that DSS was the victim's "guardian"
+(see Executive Law § 621 [6]), and therefore qualified to obtain
+restitution for the cost of providing foster care as a "victim" pursuant to Penal Law
+§ 60.27. We therefore modify the order accordingly.
+
+It is well established that restitution may be required for expenses that "were not
+voluntarily incurred, but stem from legal obligations that are directly and causally related
+to the crime" (People v Cruz, 81 NY2d 996, 998 [1993]; see People v McCarthy, 83
+AD3d 1533, 1535 [2011], lv denied 17 NY3d 819 [2011]; People v
+McDaniel, 219 AD2d 861, 861 [1995]). Here, however, the foster care expenses are
+the result of the placement of the victim in the care and custody of DSS pursuant to a
+proceeding in Family Court (see Family Ct Act § 1055 [1]), and
+thus DSS is performing its statutory duty pursuant to Social Services Law
+§ 398 (2) (b). We note that the legislature has specifically provided that
+certain governmental agencies and entities are entitled to restitution when performing
+their statutory duties (see Penal Law § 60.27 [9], [10], [13]).
+Section 60.27 (9), for example, was enacted to permit restitution to police agencies for
+unrecovered funds used in undercover drug purchases following the decision in
+People v Rowe (152 AD2d 907, 909 [1989], affd 75 NY2d 948, 949 [1990]).
+In Rowe, we determined that, absent legislative intent to include a city police
+department as a "victim," such funds could not be recovered by means of a court order of
+restitution. Similarly, here, in the absence of legislative intent that DSS is a "victim"
+pursuant to Penal Law § 60.27, we decline to impose an obligation on
+defendant to pay restitution for the expenditure of public funds for providing foster care
+for the victim. Present—Scudder, P.J., Smith, Carni, Lindley and Sconiers, JJ.
+
+
+

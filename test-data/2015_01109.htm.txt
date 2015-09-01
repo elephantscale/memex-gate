@@ -1,0 +1,115 @@
+
+	Crain v Mannise
+	2015 NY Slip Op 01109 [125 AD3d 1422]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 Roger D. Crain, Appellant,
+v
+Bill E. Mannise et
+al., Respondents. William E. Mannise et al., Third-Party Plaintiffs, v Michael Arcuri,
+Third-Party Defendant.
+
+
+
+
+
+Melvin & Melvin, PLLC, Syracuse (Thomas Bezigian, Jr., of counsel), for
+plaintiff-appellant.
+
+Menter, Rudin & Trivelpiece, P.C., Syracuse (Teresa M. Bennett of counsel),
+for defendants-respondents.
+
+
+
+
+
+Appeal from a judgment (denominated order) of the Supreme Court, Onondaga
+County (Donald A. Greenwood, J.), entered January 16, 2014. The judgment granted the
+motion of defendants seeking summary judgment dismissing the complaint and summary
+judgment on their counterclaim, declared that defendants are the lawful owners of the
+disputed property and denied plaintiff's cross motion for summary judgment.
+
+It is hereby ordered that the judgment so appealed from is unanimously reversed on
+the law without costs, the motion is denied, the complaint is reinstated, the cross motion
+is granted in part, and judgment is granted in favor of plaintiff on the first cause of action
+as follows: It is ordered, adjudged and declared that plaintiff is the lawful owner of the
+disputed property.
+
+Memorandum: Plaintiff commenced this action pursuant to RPAPL article 15
+seeking to compel a determination of claims to real property, i.e., the "disputed parcel"
+comprising approximately one quarter of an acre, which is described in the deed to
+plaintiff's parcel and also is described in the deed to defendants' parcel (hereafter,
+disputed property). The underlying relevant facts are not in dispute. The parties own
+adjacent parcels of property in Onondaga County. Plaintiff acquired title to his parcel in
+1976 from his parents, who had purchased it in 1953. Defendants purchased their parcel
+from third-party defendant, who transferred title by warranty deed in April 2008.
+Third-party defendant had purchased the parcel in October 2002 through an in rem
+foreclosure proceeding and thus acquired title by tax deed from the County of Onondaga.
+Plaintiff's abstract of title demonstrates that the disputed property, which is vacant, has
+consistently been part of plaintiff's parcel. However, in 1959, the disputed property was
+included, in error, in a deed transferring defendants' parcel to a predecessor in interest,
+and that error was repeated thereafter each time the parcel now owned by defendants was
+transferred. The Onondaga County tax map shows the disputed property as part of
+defendants' parcel and not as part of plaintiff's parcel. In 2003, plaintiff's attorney advised
+third-party defendant that he must cease and desist from doing work on the disputed
+property and provided him, by letter, with an explanation that, in 1959 "the description in
+th[e] deed included land east of the creek, and the seller did not own any land east of the
+creek . . . Nevertheless, the creek has always been the correct westerly
+boundary of [plaintiff's] land."
+[*2]    Defendants
+moved for summary judgment dismissing the complaint on the ground that the instant
+action is barred by the six year statute of limitations (see CPLR 213 [1]),
+inasmuch as plaintiff was aware of the tax deed transferring the property to third-party
+defendant on October 15, 2002, and plaintiff failed to commence the action until June 9,
+2009. Plaintiff cross-moved for summary judgment on his complaint and to dismiss
+defendants' counterclaim seeking a declaration pursuant to RPAPL article 15 that they
+are the "lawful and rightful" owners of the disputed property. Supreme Court determined
+that plaintiff was required to commence the action within six years of the date of the tax
+deed, reasoning that the tax deed was voidable, not void. The court therefore granted the
+motion and denied the cross motion, declaring that defendants are the lawful owners of
+the disputed property. That was error.
+
+"It is well settled that an owner in possession has a right to invoke the aid of a court
+of equity at any time while he is so the owner and in possession, to have an apparent,
+though in fact not a real incumbrance discharged from the record and such right is never
+barred by the [s]tatute of [l]imitations. It is a continuing right which exists as long as
+there is an occasion for its exercise" (Ford v Clendenin, 215 NY 10, 16 [1915];
+see Schoener v Lissauer, 107 NY 111, 116-117 [1887]; Miner v
+Beekman, 50 NY 337, 343 [1872]). Indeed, "[a] [s]tatute of [l]imitations is one of
+repose designed to put an end to stale claims and was never intended to compel resort to
+legal remedies by one who is in complete enjoyment of all he claims . . .
+The logic of such a view is inescapably correct, for otherwise, the recording of the deed
+resulting from such a proceeding would transform the owner's absolute title in fee simple
+into a right of action only, the exercise of which is subject to time limitation"
+(Cameron Estates, Inc. v Deering, 308 NY 24, 31 [1954], rearg
+denied 308 NY 808 [1955] [internal citations omitted]; see Orange &
+Rockland Util. v Philwold Estates, 52 NY2d 253, 261 [1981]; see also Welch v
+Prevost Landowners, 202 AD2d 803, 804-805 [1994]; Piedra v Vanover, 174
+AD2d 191, 196 [1992]).
+
+We conclude that, inasmuch as plaintiff and his predecessors in interest have always
+held title and have been in continuous possession of the disputed property, the tax deed
+to defendants' predecessor in interest was void with respect to the disputed property
+because the County of Onondaga could not convey an interest in land that it did not have
+(see generally Washington
+Temple Church of God in Christ, Inc. v Global Props. & Assoc., Inc., 55 AD3d
+727, 727-728 [2008]). Indeed, "[a] purchaser who fails to use due diligence in
+examining the title is chargeable, as a matter of law, with notice of the facts which a
+proper inquiry would have disclosed" (id. at 728). Here, due diligence on the part
+of defendants would have disclosed the error in the 1959 transfer of the disputed
+property. Present—Scudder, P.J., Smith, Carni, Lindley and Sconiers, JJ.
+
+
+

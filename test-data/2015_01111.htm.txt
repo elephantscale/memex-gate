@@ -1,0 +1,193 @@
+
+	People v Scheidelman
+	2015 NY Slip Op 01111 [125 AD3d 1426]
+	February 6, 2015
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 1, 2015
+
+
+
+
+
+
+
+[*1]
+
+	 The People of the State of New York,
+Respondent,
+v
+Mark Scheidelman, Appellant.
+
+
+
+
+
+Frank Policelli, Utica, for defendant-appellant.
+
+Scott D. McNamara, District Attorney, Utica (Steven G. Cox of counsel), for
+respondent.
+
+
+
+
+
+Appeal from a judgment of the Oneida County Court (Michael L. Dwyer, J.),
+rendered July 17, 2013. The judgment convicted defendant, upon a jury verdict, of sexual
+abuse in the first degree.
+
+It is hereby ordered that the judgment so appealed from is reversed as a matter of
+discretion in the interest of justice and on the law, and a new trial is granted.
+
+Memorandum: Defendant appeals from a judgment convicting him upon a jury
+verdict of sexual abuse in the first degree (Penal Law § 130.65 [3]). We
+reject defendant's contention that the verdict is contrary to the weight of the evidence
+because the People's witnesses were not credible. Contrary to defendant's contention, the
+testimony of those witnesses was not "so inconsistent or unbelievable as to render it
+incredible as a matter of law" (People v Black, 38 AD3d 1283, 1285 [2007], lv denied
+8 NY3d 982 [2007]). We note that "[r]esolution of issues of credibility, as well as the
+weight to be accorded to the evidence presented, are primarily questions to be determined
+by the jury" (People v
+Witherspoon, 66 AD3d 1456, 1457 [2009], lv denied 13 NY3d 942
+[2010] [internal quotation marks omitted]), and we see no basis for disturbing the jury's
+credibility determinations in this case. Viewing the evidence in light of the elements of
+the crime as charged to the jury (see People v Danielson, 9 NY3d 342, 349 [2007]), we
+conclude that the verdict is not against the weight of the evidence (see generally
+People v Bleakley, 69 NY2d 490, 495 [1987]).
+
+Defendant further contends that he was deprived of a fair trial by the cumulative
+effect of numerous instances of prosecutorial misconduct, including eliciting
+inadmissible evidence, conducting an improper cross-examination of defendant, and
+making improper comments during summation. Although defendant failed to preserve
+his challenges for our review (see generally People v Santiago, 22 NY3d 740, 749-750
+[2014]), we exercise our power to review them as a matter of discretion in the interest of
+justice (see CPL 470.15 [6] [a]; People v McClary, 85 AD3d 1622, 1624 [2011]), inasmuch
+as "we are mindful of our 'overriding responsibility' to ensure that 'the cardinal right of a
+defendant to a fair trial' is respected in every instance" (People v Wlasiuk, 32 AD3d
+674, 675 [2006], lv dismissed 7 NY3d 871 [2006], quoting People v
+Crimmins, 36 NY2d 230, 238 [1975]; see People v Ballerstein, 52 AD3d 1192, 1193 [2008]).
+Based upon that review, we agree with defendant that he was deprived of a fair trial, and
+we therefore reverse the judgment and grant a new trial.
+
+Initially, we agree with defendant that the prejudice created when the prosecutor
+questioned defendant about his homosexuality and his former homosexual relationship
+with the victim's uncle, apparently at a time when the uncle was a young man, far
+outweighed the minimal probative value that such evidence may have had (see People
+v Mercado, 188 AD2d 941, 943-944 [1992]), especially in light of the charges here,
+wherein defendant was accused of having sexual contact with a boy. By asking those
+questions, the prosecutor improperly "cross-examine[d] the defendant about a [sexual]
+practice, not rising to the level of a crime, which had no logical bearing on the question
+of credibility" (People v Moore, 156 AD2d 394, 394 [1989]).
+[*2]    In addition, the prosecutor cross-examined defendant
+at length regarding the criminal records of several people who resided in his home, and
+also regarding assistance he provided to those people, such as bailing one of them out of
+jail and hiring an attorney to defend that man on criminal charges. None of those people
+testified, nor was their credibility or criminal history otherwise relevant. Also, as noted
+above, the prosecutor cross-examined defendant regarding a prior homosexual
+relationship between defendant and the victim's uncle. By "pursu[ing] a
+cross-examination [that can be] accurately described as based upon 'twin themes of guilt
+by association and criminal propensity' " (People v Louissant, 240 AD2d
+433, 433 [1997]), the prosecutor deprived defendant of a fair trial (see People v Morgan, 111
+AD3d 1254, 1255-1256 [2013]; People v Parker, 178 AD2d 665, 666
+[1991]).
+
+The prosecutor also engaged in misconduct by introducing evidence that one of the
+people who lived with defendant told a child to stay out of defendant's room "because
+you don't know what [defendant] can do." That evidence "was irrelevant to any issue in
+the case and only could have prejudiced defendant by suggesting to the jury that he was
+an erratic and potentially dangerous person who had the propensity to commit the crime
+at issue" or some other criminal act (People v Cornell, 110 AD3d 1443, 1445 [2013], lv
+denied 22 NY3d 1087 [2014]; see generally People v Cass, 18 NY3d 553, 559 [2012];
+People v Molineux, 168 NY 264, 291-292 [1901]).
+
+Next, the prosecutor improperly elicited testimony from a police investigator that he
+had received training establishing that underaged victims of sexual crimes frequently
+disclosed the crime in minimal detail at first, and provided more thorough and intimate
+descriptions of the event later. That testimony dovetailed with the People's position
+concerning the way in which the victim revealed this incident (cf. People v Gayden, 107
+AD3d 1428, 1428-1429 [2013], lv denied 22 NY3d 1138 [2014]). Thus, we
+conclude that the investigator's testimony "was the precise equivalent of affirming the
+credibility of the People's witness through the vehicle of an opinion that [sexual abuse is
+frequently committed] as the victim had related. It is always within the sole province of
+the jury to decide whether the testimony of any witness is truthful or not. The jurors were
+fully capable of using their ordinary experience to test the credibility of the
+victim-witness; and the receipt of the [investigator]'s testimony in this regard was
+improper and indeed constituted usurpation of the function of the jury . . .
+Where, as here, the sole reason for questioning the 'expert' witness is to bolster the
+testimony of another witness (here the victim) by explaining that his version of the events
+is more believable than the defendant's, the 'expert's' testimony is equivalent to an
+opinion that the defendant is guilty" (People v Ciaccio, 47 NY2d 431, 439
+[1979]), and the prosecutor improperly elicited that testimony.
+
+Moreover, by eliciting that testimony, the prosecutor improperly introduced expert
+testimony regarding the Child Sexual Abuse Accommodation Syndrome. Although such
+testimony is admissible in certain situations (see People v Spicola, 16 NY3d 441, 465-467 [2011],
+cert denied 565 US —, 132 S Ct 400 [2011]), here it was elicited from a
+police investigator under the guise that it was part of the investigator's training. The
+prosecutor failed to lay a foundation establishing that the investigator was qualified to
+provide such testimony (cf.
+People v Hicks, 2 NY3d 750, 751 [2004]). Furthermore, the evidence does not
+establish that the investigator had "extensive training and experience [that] rendered
+[him] qualified to provide such [testimony]" (People v Lewis, 16 AD3d 173, 173 [2005], lv denied
+4 NY3d 888 [2005]; cf.
+People v Bassett, 55 AD3d 1434, 1436 [2008], lv denied 11 NY3d 922
+[2009]).
+
+Finally, the prosecutor further engaged in misconduct by commenting on the
+evidence that was improperly elicited, as well as by additional comments during
+summation, such as the prosecutor's comment that there was "a very sexually charged
+atmosphere there on the second floor of [defendant's] house" (see generally
+Mercado, 188 AD2d at 943-944). She also commented that wrestling with the victim
+"[c]ould be a form of foreplay," without any evidence supporting that suggestive and
+emotionally charged statement.
+
+In sum, "[w]e conclude that 'the cumulative effect of the prosecutor's
+cross-examination and summation errors deprived defendant of a fair trial' " (People v Hicks, 100 AD3d
+1379, 1380 [2012]).
+
+All concur except Fahey, J., who dissents and votes to affirm in the following
+memorandum.
+
+Fahey, J. (dissenting). I respectfully dissent and would affirm the judgment. I agree
+with the majority that the verdict is not against the weight of the evidence (see People v Danielson, 9
+NY3d 342, [*3]349 [2007]; see generally People
+v Bleakley, 69 NY2d 490, 495 [1987]). The People's case turned primarily on the
+testimony of the victim, who cast defendant as a supervisory figure at a children's
+sleepover held at defendant's home. The victim specifically testified that defendant
+invited the children to sleep in his bedroom and that, while the victim was on defendant's
+bed, defendant inserted his hand into the victim's pants and squeezed the victim's penis.
+The People also presented the testimony of the victim's older brother, who similarly
+recalled that defendant invited the subject children to sleep in defendant's bedroom, and
+that defendant put his hand into the victim's pants while defendant and the victim were
+lying face-to-face on defendant's bed.
+
+By contrast, defendant, the longtime supervisor of the Town of Trenton, testified that
+the children, whom he characterized as rambunctious, entered his bedroom uninvited.
+Defendant resided with one of the children present for the sleepover and, while
+defendant indicated that he was comfortable with the presence of that child in his bed, he
+was uncomfortable with the presence of the victim in that location. Consequently, when
+the victim "hopped" into defendant's bed, defendant told the victim to leave the bed and
+told the child with whom defendant was comfortable that such child could take the
+victim's place. On cross-examination, defendant acknowledged that he had previously
+engaged in a sexual relationship with the father of the child with whom defendant was
+comfortable, and that the father of that child also lived with defendant. At no point did
+defendant admit to touching the victim but, under these circumstances, I agree with the
+majority that the jury was entitled to resolve what was essentially a contest of credibility
+between the prosecution's witnesses and defendant against defendant (see People v Witherspoon, 66
+AD3d 1456, 1457 [2009], lv denied 13 NY3d 942 [2010]).
+
+The same circumstances, however, lead me to conclude that this is not a case in
+which we should exercise our power to review defendant's remaining contentions, which
+are not preserved for our review, as a matter of discretion in the interest of justice
+(see CPL 470.15 [6] [a]), and grant defendant a new trial. In my view, the jury
+was justified in finding defendant guilty beyond a reasonable doubt even in the absence
+of the evidence and comments that defendant now challenges (see Danielson, 9
+NY3d at 348). Indeed, even assuming, arguendo, that defendant's contentions with
+respect to the admission of disputed evidence and what defendant contends were the
+prosecutor's improper comments have merit, I cannot agree with the majority that
+defendant was deprived of a fair trial by the cumulative effect of what I view those
+alleged errors to be. Present—Smith, J.P., Fahey, Whalen and DeJoseph, JJ.
+
+
+
