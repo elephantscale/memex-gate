@@ -34,4 +34,4 @@ Rule: Case_Name_Recognition_Normal (
   (STATE_OF | PEOPLE | SOME_NAME | COMPANY)
 ):match
 -->
-:match.Case_Name = { rule = "Case_Name_Normal"}
+  :match.Case_Name = { rule = "Case_Name_Normal"}
