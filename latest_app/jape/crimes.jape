@@ -1,0 +1,56 @@
+Phase: Crime_Recognition_Phase_1
+Input: Lookup Token SpaceToken
+Options: control = first
+
+
+Macro: HIS (
+  {Token.string == "his"}
+)
+
+Macro: HIM (
+  {Token.string == "him"}
+)
+
+Macro: HER (
+  {Token.string == "her"}
+)
+
+Rule: Crime_Pattern_1 (
+  {Token.string == "upon"}
+  ({SpaceToken})+
+  (HIS | HER)
+  ({SpaceToken})+
+  {Token.string == "plea"}
+  ({SpaceToken})+
+  {Token.string == "of"}
+  ({SpaceToken})+
+  {Token.string == "guilty"}
+  {Token.string == ","}
+  ({SpaceToken})+
+  {Token.string == "of"}
+  ({SpaceToken})+
+  (
+    ({Token} | {SpaceToken})*
+    {Token.string == "."}
+  ):match
+)
+-->
+:match.Crime = { rule = "Crime_Pattern_1" }
+
+
+Rule: Crime_Pattern_2 (
+  {Token.string == "convicting"}
+  ({SpaceToken})+
+  (HIM | HER)
+  ({SpaceToken})+
+  {Token.string == "of"}
+  ({SpaceToken})+
+  (
+    ({Token} | {SpaceToken})*
+  ):match
+  {Token.string == ","}
+  ({SpaceToken})+
+  {Token.string == "upon"}
+)
+-->
+:match.Crime = { rule = "Crime_Pattern_2"}
