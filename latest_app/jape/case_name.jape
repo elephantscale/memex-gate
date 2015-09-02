@@ -1,0 +1,37 @@
+Phase: Case_Name_Recognition
+Input: Lookup Token SpaceToken US_State
+Options: control = appelt
+
+
+Macro: STATE_OF (
+  {Token.string == "State"}
+  ({SpaceToken})+
+  {Token.string == "of"}
+  ({SpaceToken})+
+  {US_State}
+)
+
+Macro: PEOPLE (
+  {Token.string == "People"}
+)
+
+Macro: SOME_NAME (
+  {Token.string ==~ "[A-Z][A-Za-z]+"}
+)
+
+Macro: COMPANY ( // Apple Corp.
+  {Token.string ==~ "[A-Z][A-Za-z]+"}
+  ({SpaceToken})+
+  {Token.string ==~ "[A-Z][A-Za-z]+"}
+  ({Token.string == "."})?
+)
+
+Rule: Case_Name_Recognition_Normal (
+  (STATE_OF | PEOPLE | SOME_NAME | COMPANY)
+  ({SpaceToken})+
+  {Token.string == "v"}
+  ({SpaceToken})+
+  (STATE_OF | PEOPLE | SOME_NAME | COMPANY)
+):match
+-->
+:match.Case_Name = { rule = "Case_Name_Normal"}
