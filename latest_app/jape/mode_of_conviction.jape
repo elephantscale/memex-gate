@@ -1,0 +1,32 @@
+Phase: Mode_Of_Conviction_Recognition
+Input: Lookup Token SpaceToken
+Options: control = appelt
+
+Macro: PLEA_OF_GUILTY (
+    {Token.string == "plea"}
+    ({SpaceToken})+
+    {Token.string == "of"}
+    ({SpaceToken})+
+    {Token.string == "guilty"}
+)
+
+Macro: JURY_VERDICT (
+  {Token.string == "jury"}
+  ({SpaceToken})+
+  {Token.string == "verdict"}
+)
+
+Macro: NONJURY_TRIAL (
+  {Token.string == "nonjury"}
+  ({SpaceToken})+
+  {Token.string == "trial"}
+)
+
+Rule: Mode_Of_Conviction
+(
+  (
+    (PLEA_OF_GUILTY) | (JURY_VERDICT) | (NONJURY_TRIAL)
+  ):match
+)
+-->
+  :match.ModeOfConviction = { rule = "Mode_Of_Conviction" }
