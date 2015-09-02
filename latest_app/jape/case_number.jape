@@ -28,12 +28,14 @@ Rule: Case_Number_Pattern_2
 (
    (
      {Token.string == "["}
-     {Token.string ==~ "[0-9]"}
-     {SpaceToken}
-     {Token.string ==~ "[aA][dD]"}
-     (({Token}) | ({SpaceToken}))+
+     (
+       {Token.string ==~ "[0-9]+"}
+       {SpaceToken}
+       {Token.string ==~ "[aA][dD]"}
+       (({Token}) | ({SpaceToken}))+
+     ):match
      {Token.string == "]"}
-   ):match
+   )
 )
 -->
   :match.Case_Number = { rule = "Case_Number_Pattern_2" }
