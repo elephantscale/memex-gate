@@ -1,0 +1,51 @@
+Phase: Appelate_Division_Recognition
+Input: Lookup Token SpaceToken Month
+Options: control = appelt
+
+
+Macro: MONTH
+(
+  {Token.string ==~ "(?i)January"} |
+  {Token.string ==~ "(?i)February"} |
+  {Token.string ==~ "(?i)March"} |
+  {Token.string ==~ "(?i)April"} |
+  {Token.string ==~ "(?i)May"} |
+  {Token.string ==~ "(?i)June"} |
+  {Token.string ==~ "(?i)July"} |
+  {Token.string ==~ "(?i)August"} |
+  {Token.string ==~ "(?i)September"} |
+  {Token.string ==~ "(?i)October"} |
+  {Token.string ==~ "(?i)November"} |
+  {Token.string ==~ "(?i)December"}
+)
+
+Macro: DATE
+(
+  {Token.string ==~ "[0-9]+"}
+  ({SpaceToken})*
+  {Token.string == ","}
+  ({SpaceToken})+
+  {Token.string ==~ "[1-2][0-9][0-9][0-9]"}
+)
+
+Rule: Appelate_Keyword_Recognition (
+  {Token.string == "Appellate"}
+  ({SpaceToken})+
+  {Token.string == "Division"}
+):match
+-->
+:match.Appeal_Keyword = { rule = "Appeal_Keyword_Recognition" }
+
+Phase: Appeal_Date_Recognition
+
+Rule: Appeal_Date_Recognition (
+  (
+    (MONTH)
+    ({SpaceToken})+
+    (DATE)
+  ):match
+  ({SpaceToken})+
+  {Appeal_Keyword}
+)
+-->
+:match.Appeal_Date = {rule = "Appeal_Date_Recognition"}
