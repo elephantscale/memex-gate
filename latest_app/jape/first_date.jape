@@ -20,7 +20,7 @@ Macro: MONTH
 
 Macro: DATE
 (
-  {Token.string ==~ "[0-9][0-9]"}
+  {Token.kind == number, Token.length == 1}
   ({SpaceToken})*
   {Token.string == ","}
   ({SpaceToken})+
