@@ -1,6 +1,6 @@
 Phase: Case_Number_Recognition
 Input: Lookup Token SpaceToken
-Options: control = first
+Options: control = appelt
 
 
 Rule: Case_Number_Pattern_1
@@ -33,6 +33,29 @@ Rule: Case_Number_Pattern_2
      {Token.orth == lowercase}
      ({SpaceToken})+
      {Token.kind == number}
+     (
+       {Token.string == ","}
+       ({SpaceToken})
+       {Token.kind == number}
+     )?
 ):match
 -->
   :match.Case_Number = { rule = "Case_Number_Pattern_2" }
+
+Rule: Case_Number_Pattern_3
+(
+  {Token.kind == number}
+  ({SpaceToken})+
+  {Token.string ==~ "[nN][yY]"}
+  {Token.kind == number}
+  {Token.orth == lowercase}
+  ({SpaceToken})+
+  {Token.kind == number}
+  (
+    {Token.string == ","}
+    ({SpaceToken})
+    {Token.kind == number}
+  )?
+):match
+-->
+  :match.Case_Number = { rule = "Case_Number_Pattern_3" }
