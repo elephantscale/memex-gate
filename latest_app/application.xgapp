@@ -27,7 +27,7 @@
       <docList>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2004_02498.htm.txt_0048B</resourceName>
+          <resourceName>2004_02498.htm.txt_00545</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -74,7 +74,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2004_02600.htm.txt_0048C</resourceName>
+          <resourceName>2004_02600.htm.txt_00546</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -121,7 +121,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2004_04060.htm.txt_0048D</resourceName>
+          <resourceName>2004_04060.htm.txt_00547</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -168,7 +168,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2004_04356.htm.txt_0048E</resourceName>
+          <resourceName>2004_04356.htm.txt_00548</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -215,7 +215,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2007_08678.htm.txt_0048F</resourceName>
+          <resourceName>2007_08678.htm.txt_00549</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -262,7 +262,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2007_08679.htm.txt_00490</resourceName>
+          <resourceName>2007_08679.htm.txt_0054A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -309,7 +309,54 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2008_09090.htm.txt_00491</resourceName>
+          <resourceName>2008_03974.htm.txt_0054B</resourceName>
+          <initParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>sourceUrl</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$relpath$../../../../court_docs_database/txt_test_documents/2008_03974.htm.txt</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>preserveOriginalContent</string>
+                <boolean>false</boolean>
+              </entry>
+              <entry>
+                <string>collectRepositioningInfo</string>
+                <boolean>false</boolean>
+              </entry>
+              <entry>
+                <string>markupAware</string>
+                <boolean>true</boolean>
+              </entry>
+              <entry>
+                <string>sourceUrlEndOffset</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>stringContent</string>
+                <string></string>
+              </entry>
+              <entry>
+                <string>mimeType</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>encoding</string>
+                <string>UTF-8</string>
+              </entry>
+              <entry>
+                <string>sourceUrlStartOffset</string>
+                <null/>
+              </entry>
+            </localMap>
+          </initParams>
+        </gate.util.persistence.LRPersistence>
+        <gate.util.persistence.LRPersistence>
+          <resourceType>gate.corpora.DocumentImpl</resourceType>
+          <resourceName>2008_09090.htm.txt_0054C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -356,7 +403,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2015_01010.htm.txt_00492</resourceName>
+          <resourceName>2015_01010.htm.txt_0054D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -403,7 +450,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>2015_01011.htm.txt_00493</resourceName>
+          <resourceName>2015_01011.htm.txt_0054E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1106,6 +1153,70 @@
                 <string>grammarURL</string>
                 <gate.util.persistence.PersistenceManager-URLHolder>
                   <urlString>$relpath$jape/crimes.jape</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>encoding</string>
+                <string>UTF-8</string>
+              </entry>
+              <entry>
+                <string>operators</string>
+                <null/>
+              </entry>
+            </localMap>
+          </initParams>
+          <features class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap/>
+          </features>
+        </gate.util.persistence.LanguageAnalyserPersistence>
+        <gate.util.persistence.LanguageAnalyserPersistence>
+          <runtimeParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>enableDebugging</string>
+                <boolean>false</boolean>
+              </entry>
+              <entry>
+                <string>corpus</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>outputASName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>inputASName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>ontology</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>document</string>
+                <null/>
+              </entry>
+            </localMap>
+          </runtimeParams>
+          <resourceType>gate.creole.Transducer</resourceType>
+          <resourceName>Case_Name</resourceName>
+          <initParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>binaryGrammarURL</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>annotationAccessors</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>grammarURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$relpath$jape/case_name.jape</urlString>
                 </gate.util.persistence.PersistenceManager-URLHolder>
               </entry>
               <entry>
