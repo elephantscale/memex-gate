@@ -2,23 +2,6 @@ Phase: Appelate_Division_Recognition
 Input: Lookup Token SpaceToken Month
 Options: control = appelt
 
-
-Macro: MONTH
-(
-  {Token.string ==~ "(?i)January"} |
-  {Token.string ==~ "(?i)February"} |
-  {Token.string ==~ "(?i)March"} |
-  {Token.string ==~ "(?i)April"} |
-  {Token.string ==~ "(?i)May"} |
-  {Token.string ==~ "(?i)June"} |
-  {Token.string ==~ "(?i)July"} |
-  {Token.string ==~ "(?i)August"} |
-  {Token.string ==~ "(?i)September"} |
-  {Token.string ==~ "(?i)October"} |
-  {Token.string ==~ "(?i)November"} |
-  {Token.string ==~ "(?i)December"}
-)
-
 Macro: DATE
 (
   {Token.string ==~ "[0-9]+"}
@@ -40,7 +23,7 @@ Phase: Appeal_Date_Recognition
 
 Rule: Appeal_Date_Recognition (
   (
-    (MONTH)
+    {Lookup.minorType == "month"}
     ({SpaceToken})+
     (DATE)
   ):match
