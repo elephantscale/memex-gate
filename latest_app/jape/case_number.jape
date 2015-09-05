@@ -22,7 +22,7 @@ Rule: Case_Number_Pattern_1
   {Token.string ==~ "[0-9]*"}
 ):match
 -->
-  :match.Case_Number = {rule = "Case_Number_Pattern_1"}
+  :match.Case_Number_Type_1 = {rule = "Case_Number_Pattern_1"}
 
 Rule: Case_Number_Pattern_2
 (
@@ -40,7 +40,7 @@ Rule: Case_Number_Pattern_2
      )?
 ):match
 -->
-  :match.Case_Number = { rule = "Case_Number_Pattern_2" }
+  :match.Case_Number_Type_2 = { rule = "Case_Number_Pattern_2" }
 
 Rule: Case_Number_Pattern_3
 (
@@ -58,4 +58,4 @@ Rule: Case_Number_Pattern_3
   )?
 ):match
 -->
-  :match.Case_Number = { rule = "Case_Number_Pattern_3" }
+  :match.Case_Number_Type_2 = { rule = "Case_Number_Pattern_3" }

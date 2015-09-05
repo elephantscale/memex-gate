@@ -1,0 +1,40 @@
+Phase: Defender_Type_Recognition
+Input: Lookup Token SpaceToken
+Options: control = appelt
+
+Macro: PUBLIC_DEFENDER (
+  {Token.string ==~ "(?i)public"}
+  ({SpaceToken})+
+  {Token.string ==~ "(?i)defender"}
+)
+
+Macro: CONFLICT_DEFENDER (
+  {Token.string ==~ "(?i)conflict"}
+  ({SpaceToken})+
+  {Token.string ==~ "(?i)defender"}
+)
+
+Macro: LEGAL_AID_BUREAU (
+  {Token.string ==~ "(?i)legal"}
+  ({SpaceToken})+
+  {Token.string ==~ "(?i)aid"}
+  ({SpaceToken})+
+  {Token.string ==~ "(?i)bureau"}
+)
+
+
+Macro: LEGAL_AID_SOCIETY (
+  {Token.string ==~ "(?i)legal"}
+  ({SpaceToken})+
+  {Token.string ==~ "(?i)aid"}
+  ({SpaceToken})+
+  {Token.string ==~ "(?i)society"}
+)
+
+
+Rule: Defender_Type_Recognition
+(
+  (PUBLIC_DEFENDER) | (CONFLICT_DEFENDER) | (LEGAL_AID_BUREAU) | (LEGAL_AID_SOCIETY)
+):match
+-->
+  :match.Defender_Type = {rule = "Defender_Type_Recognition"}

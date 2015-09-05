@@ -1,0 +1,26 @@
+Phase: Judge_Recognition // Judge in parenthesis New York County ({judgename})
+Input: Lookup Token SpaceToken
+Options: control = first
+
+Rule: Judge_Recognition
+(
+  (
+    {Token.string ==~ "(?i)court"} |
+    {Token.string ==~ "(?i)county"} |
+    (
+      {Token.string ==~ "(?i)court"}
+      ({SpaceToken})+
+      {Token.string ==~ "(?i)of"}
+      ({SpaceToken})+
+      {Token.string ==~ "(?i)claims"}
+    )
+  )
+  ({SpaceToken})+
+  {Token.string == "("}
+  (
+    ({Token} | {SpaceToken})*
+  ):match
+  {Token.string == ")"}
+)
+-->
+  :match.Judge = {rule = "Judge Recognition"}

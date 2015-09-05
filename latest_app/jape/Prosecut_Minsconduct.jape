@@ -1,0 +1,12 @@
+Phase: Prosecut_Misconduct_Recognition
+Input: Lookup Token SpaceToken
+Options: control = appelt
+
+Rule: Prosecut_Misconduct_Recognition
+(
+    {Token.string ==~ "prosecut[a-zA-Z]+"}
+    ({SpaceToken})+
+    {Token.string == "misconduct"}
+):match
+-->
+  :match.Prosecut_Misconduct = {rule = "Prosecut_Misconduct Recognition"}

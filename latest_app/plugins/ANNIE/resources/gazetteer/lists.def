@@ -172,3 +172,5 @@ title_lower.lst:
 title_lowercase.lst:
 us_counties.lst:us_county:::US_County
 us_states.lst:us_state:::US_State
+us_court.lst:us_court:::US_Court_Type
+grounds_for_appeal_keywords.lst::::Grounds_For_Appeal_Keyword

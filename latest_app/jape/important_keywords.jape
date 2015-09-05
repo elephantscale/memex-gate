@@ -1,0 +1,40 @@
+Phase: Important_Keywords
+Input: Lookup Token SpaceToken
+Options: control = first
+
+Rule: Important_Keywords
+(
+  {Token.string ==~ "(?i)affirmed"} |
+  {Token.string ==~ "(?i)modified"} |
+  {Token.string ==~ "(?i)reversed"} |
+  {Token.string ==~ "(?i)dismissed"} |
+  (
+    {Token.string == "case"}
+    (
+      {Token} | {SpaceToken}
+    )[0,5]
+    {Token.string == "is"}
+    ({SpaceToken})+
+    {Token.string == "held"}
+  ) |
+  (
+    {Token.string == "decision"}
+    (
+      {Token} | {SpaceToken}
+    )[0,5]
+    {Token.string == "is"}
+    ({SpaceToken})+
+    {Token.string == "reserved"}
+  ) |
+  (
+    {Token.string == "matter"}
+    (
+      {Token} | {SpaceToken}
+    )[0,5]
+    {Token.string == "is"}
+    ({SpaceToken})+
+    {Token.string == "remitted"}
+  )
+):match
+-->
+  :match.Legal_Keyword_Important = {rule = "Important_Keywords"}

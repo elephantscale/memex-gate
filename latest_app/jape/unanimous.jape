@@ -1,0 +1,9 @@
+Phase: Unanimous_Recognition
+Input: Lookup Token SpaceToken
+Options: control = appelt
+
+Rule: Unanimous_Keyword (
+  ({Token.string == "unanimous"} | {Token.string == "unanimously"})
+):match
+-->
+  :match.Unanimous_Keyword = { rule = "Unanimous_Keyword"}
